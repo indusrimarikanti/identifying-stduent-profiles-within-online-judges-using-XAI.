@@ -1,0 +1,1827 @@
+student_id,problem_id,verdict,attempts,timestamp
+user_1,33,Time Limit Exceeded,4,2025-06-30 13:30:12
+user_1,98,Wrong Answer,5,2025-08-11 13:30:12
+user_1,22,Wrong Answer,3,2025-03-29 13:30:12
+user_1,45,Accepted,1,2025-09-20 13:30:12
+user_1,83,Accepted,5,2025-05-01 13:30:12
+user_1,75,Time Limit Exceeded,4,2025-09-13 13:30:12
+user_1,60,Wrong Answer,1,2024-10-23 13:30:12
+user_1,17,Wrong Answer,5,2025-08-10 13:30:12
+user_1,100,Time Limit Exceeded,3,2025-08-21 13:30:12
+user_1,80,Wrong Answer,1,2024-10-03 13:30:12
+user_1,66,Time Limit Exceeded,4,2025-02-20 13:30:12
+user_1,21,Accepted,5,2025-08-16 13:30:12
+user_1,46,Accepted,2,2025-01-28 13:30:12
+user_1,47,Accepted,4,2024-11-03 13:30:12
+user_1,95,Time Limit Exceeded,4,2025-07-21 13:30:12
+user_1,30,Accepted,5,2024-10-08 13:30:12
+user_1,39,Time Limit Exceeded,2,2024-11-09 13:30:12
+user_1,36,Accepted,4,2025-04-24 13:30:12
+user_1,58,Wrong Answer,5,2024-10-17 13:30:12
+user_1,2,Wrong Answer,5,2025-02-05 13:30:12
+user_1,7,Time Limit Exceeded,3,2025-02-02 13:30:12
+user_1,90,Wrong Answer,3,2025-02-27 13:30:12
+user_1,50,Accepted,4,2025-04-23 13:30:12
+user_1,88,Time Limit Exceeded,2,2025-09-27 13:30:12
+user_1,63,Time Limit Exceeded,2,2025-05-07 13:30:12
+user_1,92,Wrong Answer,2,2025-07-17 13:30:12
+user_2,79,Accepted,1,2025-06-09 13:30:12
+user_2,24,Accepted,2,2025-05-08 13:30:12
+user_2,93,Wrong Answer,4,2025-06-05 13:30:12
+user_2,84,Time Limit Exceeded,5,2025-04-30 13:30:12
+user_2,20,Accepted,4,2024-12-31 13:30:12
+user_2,5,Wrong Answer,5,2025-04-03 13:30:12
+user_2,3,Wrong Answer,1,2024-11-17 13:30:12
+user_2,46,Time Limit Exceeded,1,2025-01-01 13:30:12
+user_2,76,Wrong Answer,4,2025-07-26 13:30:12
+user_2,64,Time Limit Exceeded,3,2024-10-15 13:30:12
+user_2,81,Wrong Answer,4,2024-12-27 13:30:12
+user_2,78,Time Limit Exceeded,5,2024-12-11 13:30:12
+user_2,85,Accepted,1,2025-03-10 13:30:12
+user_2,61,Wrong Answer,3,2025-05-06 13:30:12
+user_2,55,Accepted,2,2025-03-31 13:30:12
+user_2,42,Wrong Answer,4,2025-01-05 13:30:12
+user_2,17,Wrong Answer,5,2024-10-13 13:30:12
+user_2,34,Wrong Answer,1,2025-07-23 13:30:12
+user_2,31,Accepted,2,2025-05-21 13:30:12
+user_2,48,Time Limit Exceeded,3,2025-05-20 13:30:12
+user_2,26,Time Limit Exceeded,4,2025-08-19 13:30:12
+user_2,23,Time Limit Exceeded,4,2024-10-15 13:30:12
+user_2,91,Wrong Answer,2,2024-12-06 13:30:12
+user_2,96,Time Limit Exceeded,4,2025-03-30 13:30:12
+user_2,72,Time Limit Exceeded,4,2025-05-17 13:30:12
+user_2,63,Wrong Answer,2,2024-11-26 13:30:12
+user_2,99,Wrong Answer,1,2025-08-30 13:30:12
+user_2,58,Accepted,4,2025-06-22 13:30:12
+user_2,9,Time Limit Exceeded,2,2025-03-12 13:30:12
+user_2,59,Time Limit Exceeded,4,2025-07-19 13:30:12
+user_2,56,Wrong Answer,2,2025-03-13 13:30:12
+user_2,45,Accepted,1,2024-11-11 13:30:12
+user_2,50,Wrong Answer,5,2025-01-19 13:30:12
+user_2,70,Time Limit Exceeded,3,2025-03-06 13:30:12
+user_2,28,Time Limit Exceeded,4,2025-06-04 13:30:12
+user_2,52,Time Limit Exceeded,4,2025-03-26 13:30:12
+user_2,37,Time Limit Exceeded,3,2025-07-19 13:30:12
+user_2,19,Accepted,4,2025-06-03 13:30:12
+user_3,99,Accepted,1,2025-07-01 13:30:12
+user_3,31,Wrong Answer,1,2024-11-16 13:30:12
+user_3,40,Accepted,5,2025-08-18 13:30:12
+user_3,18,Time Limit Exceeded,5,2024-12-23 13:30:12
+user_3,43,Wrong Answer,2,2025-01-08 13:30:12
+user_3,2,Time Limit Exceeded,5,2025-06-28 13:30:12
+user_3,6,Time Limit Exceeded,3,2025-03-29 13:30:12
+user_3,46,Time Limit Exceeded,1,2024-12-26 13:30:12
+user_3,3,Accepted,3,2025-05-02 13:30:12
+user_3,59,Accepted,4,2025-09-01 13:30:12
+user_3,33,Wrong Answer,2,2025-04-27 13:30:12
+user_3,24,Time Limit Exceeded,3,2024-10-16 13:30:12
+user_3,84,Time Limit Exceeded,2,2025-09-17 13:30:12
+user_3,23,Time Limit Exceeded,2,2024-11-26 13:30:12
+user_3,54,Time Limit Exceeded,3,2025-08-03 13:30:12
+user_3,80,Accepted,1,2025-02-22 13:30:12
+user_3,77,Accepted,1,2025-04-16 13:30:12
+user_3,79,Wrong Answer,4,2024-12-03 13:30:12
+user_3,87,Time Limit Exceeded,1,2025-03-15 13:30:12
+user_3,72,Wrong Answer,1,2025-08-28 13:30:12
+user_3,91,Time Limit Exceeded,2,2025-07-19 13:30:12
+user_3,73,Accepted,5,2025-06-18 13:30:12
+user_3,85,Accepted,5,2024-11-07 13:30:12
+user_3,61,Time Limit Exceeded,2,2025-01-25 13:30:12
+user_3,95,Wrong Answer,3,2025-06-01 13:30:12
+user_3,52,Time Limit Exceeded,4,2025-06-26 13:30:12
+user_3,29,Accepted,4,2025-08-17 13:30:12
+user_3,81,Time Limit Exceeded,2,2024-11-14 13:30:12
+user_3,65,Time Limit Exceeded,4,2025-03-19 13:30:12
+user_3,17,Time Limit Exceeded,2,2024-12-23 13:30:12
+user_3,28,Accepted,2,2025-07-07 13:30:12
+user_3,55,Time Limit Exceeded,4,2024-10-14 13:30:12
+user_3,16,Accepted,5,2024-11-15 13:30:12
+user_3,74,Time Limit Exceeded,4,2025-08-14 13:30:12
+user_3,98,Accepted,3,2024-10-22 13:30:12
+user_3,76,Accepted,3,2025-05-27 13:30:12
+user_3,5,Time Limit Exceeded,2,2025-03-23 13:30:12
+user_4,54,Time Limit Exceeded,2,2025-07-06 13:30:12
+user_4,22,Accepted,4,2025-05-27 13:30:12
+user_4,59,Time Limit Exceeded,5,2025-08-16 13:30:12
+user_4,89,Accepted,4,2024-11-05 13:30:12
+user_4,27,Accepted,1,2025-04-01 13:30:12
+user_4,1,Accepted,2,2025-09-21 13:30:12
+user_4,2,Wrong Answer,5,2024-12-11 13:30:12
+user_4,41,Time Limit Exceeded,2,2024-12-14 13:30:12
+user_4,95,Wrong Answer,1,2025-05-12 13:30:12
+user_4,78,Wrong Answer,5,2024-11-03 13:30:12
+user_4,24,Time Limit Exceeded,4,2025-07-31 13:30:12
+user_4,49,Wrong Answer,2,2025-01-28 13:30:12
+user_4,7,Time Limit Exceeded,5,2025-03-13 13:30:12
+user_4,55,Time Limit Exceeded,4,2025-09-10 13:30:12
+user_4,77,Time Limit Exceeded,5,2025-06-28 13:30:12
+user_4,94,Accepted,4,2025-01-22 13:30:12
+user_4,92,Accepted,5,2024-10-10 13:30:12
+user_4,6,Accepted,3,2025-01-10 13:30:12
+user_4,3,Wrong Answer,4,2025-02-09 13:30:12
+user_4,83,Accepted,1,2025-06-13 13:30:12
+user_4,57,Wrong Answer,5,2024-11-08 13:30:12
+user_4,33,Time Limit Exceeded,5,2025-07-02 13:30:12
+user_4,48,Wrong Answer,5,2024-10-12 13:30:12
+user_4,40,Accepted,4,2025-08-26 13:30:12
+user_4,100,Accepted,2,2025-02-19 13:30:12
+user_4,18,Wrong Answer,4,2025-06-02 13:30:12
+user_4,63,Wrong Answer,3,2025-04-20 13:30:12
+user_4,10,Wrong Answer,4,2025-06-15 13:30:12
+user_4,13,Time Limit Exceeded,5,2025-01-05 13:30:12
+user_4,90,Time Limit Exceeded,2,2025-06-18 13:30:12
+user_4,81,Time Limit Exceeded,2,2025-03-17 13:30:12
+user_4,29,Accepted,5,2025-09-13 13:30:12
+user_4,70,Accepted,4,2024-11-15 13:30:12
+user_4,43,Time Limit Exceeded,2,2025-03-24 13:30:12
+user_4,79,Time Limit Exceeded,3,2024-10-17 13:30:12
+user_4,91,Time Limit Exceeded,5,2025-08-30 13:30:12
+user_5,100,Wrong Answer,1,2025-09-23 13:30:12
+user_5,58,Accepted,1,2025-09-14 13:30:12
+user_5,18,Time Limit Exceeded,5,2024-12-18 13:30:12
+user_5,94,Accepted,1,2025-03-24 13:30:12
+user_5,9,Accepted,1,2024-11-01 13:30:12
+user_5,1,Wrong Answer,2,2025-04-29 13:30:12
+user_5,80,Accepted,2,2025-01-19 13:30:12
+user_5,39,Accepted,3,2025-07-11 13:30:12
+user_5,7,Accepted,1,2025-05-25 13:30:12
+user_5,63,Time Limit Exceeded,5,2024-11-24 13:30:12
+user_5,10,Accepted,4,2025-08-14 13:30:12
+user_5,61,Wrong Answer,2,2024-11-12 13:30:12
+user_5,62,Accepted,2,2025-08-14 13:30:12
+user_5,98,Accepted,3,2024-12-07 13:30:12
+user_5,77,Time Limit Exceeded,2,2025-06-11 13:30:12
+user_5,37,Accepted,2,2024-12-14 13:30:12
+user_5,34,Time Limit Exceeded,2,2025-05-13 13:30:12
+user_5,81,Accepted,4,2025-06-27 13:30:12
+user_5,43,Wrong Answer,5,2025-05-08 13:30:12
+user_5,64,Time Limit Exceeded,2,2025-03-09 13:30:12
+user_5,93,Accepted,5,2025-03-25 13:30:12
+user_5,65,Accepted,5,2024-10-07 13:30:12
+user_5,25,Wrong Answer,2,2025-06-29 13:30:12
+user_5,83,Wrong Answer,5,2025-09-09 13:30:12
+user_5,66,Wrong Answer,3,2025-06-19 13:30:12
+user_5,31,Wrong Answer,5,2025-06-24 13:30:12
+user_5,35,Wrong Answer,1,2025-06-03 13:30:12
+user_5,54,Accepted,2,2025-07-10 13:30:12
+user_5,88,Time Limit Exceeded,2,2024-12-03 13:30:12
+user_5,36,Wrong Answer,1,2024-11-20 13:30:12
+user_5,49,Accepted,2,2025-04-15 13:30:12
+user_5,46,Accepted,4,2025-04-19 13:30:12
+user_5,26,Time Limit Exceeded,3,2025-07-24 13:30:12
+user_5,13,Time Limit Exceeded,1,2025-04-01 13:30:12
+user_6,36,Time Limit Exceeded,3,2025-02-26 13:30:12
+user_6,78,Wrong Answer,1,2025-02-22 13:30:12
+user_6,21,Wrong Answer,4,2024-11-10 13:30:12
+user_6,10,Accepted,1,2025-03-28 13:30:12
+user_6,65,Accepted,2,2025-07-30 13:30:12
+user_6,17,Time Limit Exceeded,2,2025-05-04 13:30:12
+user_6,16,Time Limit Exceeded,2,2025-01-28 13:30:12
+user_6,66,Time Limit Exceeded,1,2025-03-22 13:30:12
+user_6,81,Wrong Answer,4,2025-06-07 13:30:12
+user_6,20,Time Limit Exceeded,3,2025-06-09 13:30:12
+user_6,89,Accepted,3,2025-01-23 13:30:12
+user_6,71,Time Limit Exceeded,4,2024-10-14 13:30:12
+user_6,27,Wrong Answer,3,2025-08-17 13:30:12
+user_6,56,Time Limit Exceeded,5,2025-02-11 13:30:12
+user_6,35,Accepted,4,2025-07-02 13:30:12
+user_6,99,Accepted,1,2025-08-04 13:30:12
+user_6,76,Time Limit Exceeded,2,2025-05-17 13:30:12
+user_6,74,Wrong Answer,3,2024-11-15 13:30:12
+user_6,83,Time Limit Exceeded,3,2025-03-20 13:30:12
+user_6,97,Accepted,2,2024-11-26 13:30:12
+user_6,9,Wrong Answer,5,2025-08-23 13:30:12
+user_6,90,Time Limit Exceeded,2,2024-12-09 13:30:12
+user_6,55,Time Limit Exceeded,3,2025-01-21 13:30:12
+user_6,44,Time Limit Exceeded,1,2025-04-03 13:30:12
+user_6,41,Accepted,2,2025-08-25 13:30:12
+user_6,13,Time Limit Exceeded,2,2025-07-13 13:30:12
+user_6,82,Time Limit Exceeded,4,2025-01-28 13:30:12
+user_6,98,Wrong Answer,3,2024-10-24 13:30:12
+user_6,59,Time Limit Exceeded,5,2024-10-22 13:30:12
+user_6,39,Time Limit Exceeded,1,2025-06-14 13:30:12
+user_6,14,Wrong Answer,5,2025-06-26 13:30:12
+user_6,53,Accepted,1,2025-07-12 13:30:12
+user_6,4,Wrong Answer,4,2025-07-13 13:30:12
+user_6,26,Accepted,4,2025-02-12 13:30:12
+user_6,51,Wrong Answer,3,2024-12-09 13:30:12
+user_6,33,Time Limit Exceeded,1,2025-07-23 13:30:12
+user_6,58,Accepted,1,2025-08-16 13:30:12
+user_6,79,Time Limit Exceeded,5,2025-03-07 13:30:12
+user_6,11,Wrong Answer,2,2025-04-09 13:30:12
+user_6,31,Time Limit Exceeded,4,2025-07-04 13:30:12
+user_6,8,Accepted,1,2025-03-13 13:30:12
+user_6,32,Wrong Answer,2,2025-01-08 13:30:12
+user_6,22,Time Limit Exceeded,5,2025-07-31 13:30:12
+user_6,5,Wrong Answer,3,2025-08-06 13:30:12
+user_6,62,Time Limit Exceeded,3,2025-03-10 13:30:12
+user_6,85,Wrong Answer,5,2025-06-13 13:30:12
+user_6,100,Time Limit Exceeded,1,2025-08-11 13:30:12
+user_6,19,Time Limit Exceeded,2,2025-08-05 13:30:12
+user_6,6,Time Limit Exceeded,4,2024-11-20 13:30:12
+user_6,38,Wrong Answer,5,2025-09-18 13:30:12
+user_6,96,Accepted,4,2025-03-13 13:30:12
+user_6,30,Accepted,4,2024-11-23 13:30:12
+user_6,69,Wrong Answer,4,2025-05-07 13:30:12
+user_6,2,Accepted,5,2025-09-30 13:30:12
+user_6,70,Time Limit Exceeded,3,2025-05-13 13:30:12
+user_7,11,Time Limit Exceeded,4,2025-04-08 13:30:12
+user_7,51,Accepted,5,2025-01-25 13:30:12
+user_7,64,Time Limit Exceeded,5,2024-10-23 13:30:12
+user_7,75,Accepted,4,2024-11-17 13:30:12
+user_7,86,Accepted,2,2024-10-23 13:30:12
+user_7,5,Wrong Answer,4,2025-01-05 13:30:12
+user_7,35,Accepted,5,2024-11-29 13:30:12
+user_7,14,Accepted,3,2025-07-20 13:30:12
+user_7,49,Time Limit Exceeded,2,2025-03-17 13:30:12
+user_7,3,Accepted,2,2024-10-10 13:30:12
+user_7,71,Wrong Answer,1,2025-05-27 13:30:12
+user_7,91,Time Limit Exceeded,2,2025-05-24 13:30:12
+user_7,68,Accepted,1,2024-12-02 13:30:12
+user_7,24,Accepted,4,2025-02-12 13:30:12
+user_7,61,Wrong Answer,2,2025-05-08 13:30:12
+user_7,20,Accepted,2,2024-10-07 13:30:12
+user_7,10,Accepted,5,2025-04-10 13:30:12
+user_7,98,Accepted,5,2025-03-28 13:30:12
+user_7,13,Accepted,1,2024-12-11 13:30:12
+user_7,19,Accepted,3,2025-08-08 13:30:12
+user_7,29,Accepted,1,2025-02-25 13:30:12
+user_7,83,Time Limit Exceeded,4,2024-11-30 13:30:12
+user_7,59,Time Limit Exceeded,4,2025-02-06 13:30:12
+user_7,22,Wrong Answer,4,2025-09-15 13:30:12
+user_7,93,Time Limit Exceeded,5,2025-06-22 13:30:12
+user_7,96,Time Limit Exceeded,4,2024-10-20 13:30:12
+user_7,6,Wrong Answer,3,2025-05-01 13:30:12
+user_7,50,Wrong Answer,2,2024-11-20 13:30:12
+user_7,26,Wrong Answer,3,2025-08-26 13:30:12
+user_7,32,Accepted,1,2025-09-22 13:30:12
+user_7,2,Accepted,3,2025-08-15 13:30:12
+user_7,34,Wrong Answer,1,2025-06-25 13:30:12
+user_7,17,Wrong Answer,1,2025-03-18 13:30:12
+user_7,46,Wrong Answer,2,2025-08-15 13:30:12
+user_7,62,Time Limit Exceeded,4,2024-12-20 13:30:12
+user_7,63,Accepted,4,2025-02-12 13:30:12
+user_7,23,Accepted,4,2025-01-09 13:30:12
+user_7,65,Time Limit Exceeded,4,2025-02-21 13:30:12
+user_7,89,Wrong Answer,5,2025-07-04 13:30:12
+user_7,31,Accepted,3,2024-11-04 13:30:12
+user_7,39,Time Limit Exceeded,2,2025-06-25 13:30:12
+user_7,52,Time Limit Exceeded,1,2025-02-14 13:30:12
+user_7,45,Accepted,1,2024-12-21 13:30:12
+user_7,60,Accepted,2,2025-05-08 13:30:12
+user_7,38,Accepted,4,2025-01-05 13:30:12
+user_7,66,Accepted,5,2025-05-23 13:30:12
+user_7,94,Time Limit Exceeded,1,2024-12-25 13:30:12
+user_7,72,Wrong Answer,1,2025-01-20 13:30:12
+user_7,77,Wrong Answer,1,2024-12-28 13:30:12
+user_7,85,Wrong Answer,4,2025-06-04 13:30:12
+user_7,36,Accepted,5,2024-10-10 13:30:12
+user_7,69,Wrong Answer,5,2025-02-02 13:30:12
+user_7,33,Wrong Answer,5,2024-12-29 13:30:12
+user_7,79,Accepted,3,2025-09-03 13:30:12
+user_7,28,Wrong Answer,1,2024-11-03 13:30:12
+user_7,55,Time Limit Exceeded,4,2025-05-05 13:30:12
+user_7,16,Wrong Answer,3,2025-08-06 13:30:12
+user_7,42,Time Limit Exceeded,5,2024-11-06 13:30:12
+user_8,75,Accepted,4,2025-01-26 13:30:12
+user_8,27,Wrong Answer,4,2025-02-25 13:30:12
+user_8,78,Wrong Answer,2,2025-04-03 13:30:12
+user_8,49,Wrong Answer,5,2025-08-16 13:30:12
+user_8,67,Time Limit Exceeded,4,2025-09-19 13:30:12
+user_8,10,Wrong Answer,3,2025-02-24 13:30:12
+user_8,90,Accepted,2,2024-11-18 13:30:12
+user_8,15,Accepted,2,2025-01-16 13:30:12
+user_8,79,Wrong Answer,2,2024-12-26 13:30:12
+user_8,76,Accepted,1,2025-09-02 13:30:12
+user_8,64,Time Limit Exceeded,1,2025-04-19 13:30:12
+user_8,93,Time Limit Exceeded,2,2025-07-14 13:30:12
+user_8,44,Accepted,5,2024-10-03 13:30:12
+user_8,36,Wrong Answer,1,2025-05-09 13:30:12
+user_8,48,Wrong Answer,3,2025-03-13 13:30:12
+user_8,86,Time Limit Exceeded,4,2025-02-24 13:30:12
+user_8,12,Time Limit Exceeded,1,2025-08-06 13:30:12
+user_8,100,Time Limit Exceeded,5,2025-05-23 13:30:12
+user_8,71,Time Limit Exceeded,4,2025-09-14 13:30:12
+user_8,28,Accepted,4,2025-03-08 13:30:12
+user_8,1,Wrong Answer,4,2025-07-03 13:30:12
+user_8,61,Time Limit Exceeded,1,2025-03-27 13:30:12
+user_8,85,Wrong Answer,4,2024-10-09 13:30:12
+user_8,80,Wrong Answer,2,2024-12-05 13:30:12
+user_8,50,Accepted,3,2025-01-28 13:30:12
+user_8,16,Accepted,5,2024-11-17 13:30:12
+user_8,13,Accepted,1,2025-06-30 13:30:12
+user_8,4,Accepted,2,2025-04-23 13:30:12
+user_9,84,Accepted,5,2025-05-10 13:30:12
+user_9,42,Time Limit Exceeded,5,2025-01-20 13:30:12
+user_9,3,Accepted,2,2024-11-30 13:30:12
+user_9,76,Wrong Answer,5,2024-11-25 13:30:12
+user_9,58,Time Limit Exceeded,2,2025-04-24 13:30:12
+user_9,64,Accepted,3,2025-07-25 13:30:12
+user_9,38,Accepted,1,2025-03-22 13:30:12
+user_9,33,Accepted,5,2025-07-06 13:30:12
+user_9,41,Wrong Answer,5,2025-07-20 13:30:12
+user_9,69,Wrong Answer,2,2025-06-10 13:30:12
+user_9,79,Accepted,5,2024-10-29 13:30:12
+user_9,90,Time Limit Exceeded,5,2025-06-22 13:30:12
+user_9,8,Wrong Answer,2,2025-01-07 13:30:12
+user_9,70,Time Limit Exceeded,1,2025-06-12 13:30:12
+user_9,44,Wrong Answer,1,2025-06-21 13:30:12
+user_9,57,Wrong Answer,2,2025-02-18 13:30:12
+user_9,28,Wrong Answer,4,2025-06-16 13:30:12
+user_9,96,Wrong Answer,3,2025-02-19 13:30:12
+user_10,93,Accepted,1,2024-10-28 13:30:12
+user_10,23,Wrong Answer,3,2024-11-08 13:30:12
+user_10,34,Accepted,3,2025-07-01 13:30:12
+user_10,48,Wrong Answer,2,2025-05-08 13:30:12
+user_10,24,Wrong Answer,1,2025-04-12 13:30:12
+user_10,70,Time Limit Exceeded,4,2025-09-01 13:30:12
+user_10,71,Time Limit Exceeded,1,2025-02-13 13:30:12
+user_10,21,Wrong Answer,2,2025-06-21 13:30:12
+user_10,92,Accepted,5,2025-08-22 13:30:12
+user_10,1,Wrong Answer,5,2025-10-01 13:30:12
+user_10,44,Wrong Answer,3,2024-12-07 13:30:12
+user_10,13,Time Limit Exceeded,1,2024-10-07 13:30:12
+user_10,72,Time Limit Exceeded,5,2025-03-07 13:30:12
+user_10,55,Wrong Answer,3,2025-07-08 13:30:12
+user_10,56,Wrong Answer,5,2025-01-15 13:30:12
+user_10,83,Accepted,3,2025-09-14 13:30:12
+user_10,9,Wrong Answer,1,2025-03-02 13:30:12
+user_10,61,Time Limit Exceeded,2,2025-08-09 13:30:12
+user_10,45,Wrong Answer,4,2025-09-30 13:30:12
+user_10,59,Accepted,5,2025-04-14 13:30:12
+user_10,16,Accepted,1,2024-11-12 13:30:12
+user_10,29,Accepted,4,2025-03-29 13:30:12
+user_10,6,Wrong Answer,4,2025-05-01 13:30:12
+user_10,89,Time Limit Exceeded,1,2025-08-17 13:30:12
+user_10,33,Time Limit Exceeded,4,2025-06-02 13:30:12
+user_10,96,Time Limit Exceeded,3,2025-02-20 13:30:12
+user_10,88,Accepted,1,2025-09-21 13:30:12
+user_10,52,Time Limit Exceeded,1,2025-08-20 13:30:12
+user_10,43,Time Limit Exceeded,2,2025-05-27 13:30:12
+user_10,30,Time Limit Exceeded,5,2025-09-20 13:30:12
+user_10,99,Time Limit Exceeded,1,2025-05-04 13:30:12
+user_10,97,Time Limit Exceeded,3,2025-09-28 13:30:12
+user_10,58,Wrong Answer,4,2025-06-09 13:30:12
+user_10,50,Time Limit Exceeded,3,2025-02-02 13:30:12
+user_10,2,Time Limit Exceeded,4,2025-07-25 13:30:12
+user_10,27,Time Limit Exceeded,4,2024-12-10 13:30:12
+user_10,36,Accepted,1,2025-07-11 13:30:12
+user_10,66,Time Limit Exceeded,5,2025-06-19 13:30:12
+user_10,8,Accepted,5,2024-12-02 13:30:12
+user_10,86,Time Limit Exceeded,3,2025-01-29 13:30:12
+user_10,42,Time Limit Exceeded,5,2025-04-29 13:30:12
+user_10,87,Time Limit Exceeded,4,2025-09-10 13:30:12
+user_10,38,Accepted,3,2025-03-19 13:30:12
+user_10,76,Accepted,1,2025-01-20 13:30:12
+user_10,15,Wrong Answer,1,2025-09-22 13:30:12
+user_11,51,Time Limit Exceeded,1,2025-01-26 13:30:12
+user_11,91,Time Limit Exceeded,3,2025-07-16 13:30:12
+user_11,2,Wrong Answer,1,2024-12-23 13:30:12
+user_11,13,Accepted,5,2025-05-31 13:30:12
+user_11,25,Wrong Answer,2,2024-12-29 13:30:12
+user_11,72,Time Limit Exceeded,5,2025-08-05 13:30:12
+user_11,83,Accepted,5,2024-10-06 13:30:12
+user_11,81,Accepted,5,2024-11-23 13:30:12
+user_11,45,Wrong Answer,1,2025-07-11 13:30:12
+user_11,71,Accepted,1,2025-04-18 13:30:12
+user_11,26,Wrong Answer,2,2025-05-11 13:30:12
+user_11,3,Accepted,4,2025-06-03 13:30:12
+user_11,97,Wrong Answer,1,2025-01-26 13:30:12
+user_11,15,Accepted,5,2024-11-30 13:30:12
+user_11,67,Wrong Answer,3,2025-02-20 13:30:12
+user_11,100,Accepted,5,2025-02-11 13:30:12
+user_11,39,Wrong Answer,3,2024-12-19 13:30:12
+user_11,35,Wrong Answer,3,2025-03-09 13:30:12
+user_11,69,Time Limit Exceeded,3,2025-05-31 13:30:12
+user_11,31,Time Limit Exceeded,5,2025-08-16 13:30:12
+user_11,44,Wrong Answer,2,2025-05-17 13:30:12
+user_11,23,Accepted,1,2025-06-10 13:30:12
+user_11,34,Wrong Answer,2,2025-06-04 13:30:12
+user_11,17,Time Limit Exceeded,4,2025-03-29 13:30:12
+user_11,37,Time Limit Exceeded,2,2025-07-23 13:30:12
+user_11,76,Time Limit Exceeded,1,2025-05-20 13:30:12
+user_11,79,Wrong Answer,4,2025-08-03 13:30:12
+user_11,28,Wrong Answer,3,2025-09-29 13:30:12
+user_11,46,Time Limit Exceeded,1,2025-01-24 13:30:12
+user_11,27,Time Limit Exceeded,2,2025-06-22 13:30:12
+user_11,56,Time Limit Exceeded,1,2024-12-20 13:30:12
+user_11,74,Time Limit Exceeded,4,2025-01-07 13:30:12
+user_11,33,Accepted,2,2025-01-01 13:30:12
+user_11,36,Wrong Answer,2,2025-02-23 13:30:12
+user_11,85,Accepted,3,2025-02-06 13:30:12
+user_11,59,Wrong Answer,3,2025-09-12 13:30:12
+user_11,64,Wrong Answer,1,2024-10-08 13:30:12
+user_11,80,Accepted,1,2025-07-14 13:30:12
+user_11,58,Time Limit Exceeded,4,2025-06-22 13:30:12
+user_11,94,Accepted,3,2024-10-08 13:30:12
+user_11,92,Wrong Answer,2,2025-03-01 13:30:12
+user_11,30,Time Limit Exceeded,5,2025-09-12 13:30:12
+user_11,49,Accepted,5,2025-03-21 13:30:12
+user_11,12,Accepted,2,2025-09-07 13:30:12
+user_12,17,Wrong Answer,2,2025-09-25 13:30:12
+user_12,26,Accepted,2,2024-12-01 13:30:12
+user_12,23,Time Limit Exceeded,2,2025-01-24 13:30:12
+user_12,10,Accepted,5,2024-10-24 13:30:12
+user_12,74,Accepted,4,2025-06-26 13:30:12
+user_12,7,Accepted,4,2025-01-09 13:30:12
+user_12,1,Accepted,1,2025-08-06 13:30:12
+user_12,93,Accepted,1,2024-11-08 13:30:12
+user_12,5,Accepted,5,2025-03-03 13:30:12
+user_12,87,Accepted,3,2025-04-19 13:30:12
+user_12,88,Time Limit Exceeded,5,2025-04-07 13:30:12
+user_12,43,Time Limit Exceeded,2,2025-03-13 13:30:12
+user_12,3,Wrong Answer,1,2025-01-18 13:30:12
+user_12,92,Time Limit Exceeded,2,2024-10-17 13:30:12
+user_12,8,Time Limit Exceeded,5,2025-02-27 13:30:12
+user_12,69,Accepted,1,2025-09-02 13:30:12
+user_12,71,Accepted,5,2025-09-09 13:30:12
+user_12,35,Time Limit Exceeded,1,2025-09-24 13:30:12
+user_12,81,Accepted,5,2025-09-11 13:30:12
+user_12,66,Wrong Answer,4,2025-06-24 13:30:12
+user_12,99,Accepted,4,2025-06-01 13:30:12
+user_12,29,Wrong Answer,5,2025-06-17 13:30:12
+user_12,68,Wrong Answer,1,2024-11-28 13:30:12
+user_12,96,Accepted,2,2025-02-26 13:30:12
+user_12,37,Accepted,3,2025-08-11 13:30:12
+user_12,58,Time Limit Exceeded,2,2025-07-14 13:30:12
+user_12,19,Wrong Answer,4,2024-12-09 13:30:12
+user_12,90,Wrong Answer,3,2024-11-18 13:30:12
+user_12,61,Wrong Answer,1,2024-10-03 13:30:12
+user_12,78,Wrong Answer,5,2025-09-21 13:30:12
+user_12,60,Accepted,1,2024-12-15 13:30:12
+user_12,46,Accepted,2,2025-04-23 13:30:12
+user_12,14,Time Limit Exceeded,2,2024-12-16 13:30:12
+user_12,52,Accepted,1,2024-11-11 13:30:12
+user_12,94,Accepted,1,2025-06-27 13:30:12
+user_12,49,Accepted,5,2025-06-17 13:30:12
+user_12,42,Accepted,2,2024-11-25 13:30:12
+user_12,53,Time Limit Exceeded,4,2025-04-25 13:30:12
+user_12,41,Accepted,5,2025-03-24 13:30:12
+user_12,27,Accepted,4,2025-04-19 13:30:12
+user_12,64,Time Limit Exceeded,5,2024-12-12 13:30:12
+user_12,44,Time Limit Exceeded,4,2025-07-05 13:30:12
+user_12,70,Time Limit Exceeded,4,2025-01-06 13:30:12
+user_12,82,Accepted,2,2025-05-08 13:30:12
+user_12,85,Accepted,1,2025-01-11 13:30:12
+user_12,20,Time Limit Exceeded,5,2025-04-11 13:30:12
+user_12,97,Wrong Answer,1,2025-05-09 13:30:12
+user_12,48,Wrong Answer,1,2025-03-08 13:30:12
+user_12,47,Accepted,2,2024-10-18 13:30:12
+user_12,9,Time Limit Exceeded,1,2025-07-17 13:30:12
+user_12,13,Wrong Answer,5,2025-04-08 13:30:12
+user_12,30,Accepted,4,2025-07-30 13:30:12
+user_12,65,Time Limit Exceeded,4,2025-04-19 13:30:12
+user_12,100,Time Limit Exceeded,2,2025-03-30 13:30:12
+user_12,54,Accepted,1,2025-09-26 13:30:12
+user_12,12,Time Limit Exceeded,1,2025-01-24 13:30:12
+user_12,80,Wrong Answer,5,2025-07-24 13:30:12
+user_13,40,Accepted,1,2025-06-19 13:30:12
+user_13,38,Accepted,4,2025-09-11 13:30:12
+user_13,65,Accepted,5,2025-02-19 13:30:12
+user_13,60,Wrong Answer,5,2024-11-17 13:30:12
+user_13,93,Accepted,1,2025-08-14 13:30:12
+user_13,47,Time Limit Exceeded,3,2025-04-15 13:30:12
+user_13,57,Accepted,2,2025-05-14 13:30:12
+user_13,97,Wrong Answer,2,2025-03-10 13:30:12
+user_13,88,Time Limit Exceeded,3,2025-01-22 13:30:12
+user_13,99,Accepted,2,2025-03-15 13:30:12
+user_13,95,Wrong Answer,1,2024-10-09 13:30:12
+user_13,2,Accepted,5,2025-04-20 13:30:12
+user_13,50,Wrong Answer,4,2025-01-21 13:30:12
+user_13,84,Time Limit Exceeded,3,2025-06-08 13:30:12
+user_13,32,Time Limit Exceeded,1,2025-04-24 13:30:12
+user_13,21,Wrong Answer,5,2025-03-31 13:30:12
+user_13,71,Wrong Answer,1,2024-12-08 13:30:12
+user_13,62,Wrong Answer,5,2024-11-08 13:30:12
+user_13,15,Wrong Answer,3,2025-09-15 13:30:12
+user_13,78,Wrong Answer,4,2025-03-06 13:30:12
+user_13,59,Wrong Answer,5,2025-04-21 13:30:12
+user_13,44,Accepted,2,2024-11-16 13:30:12
+user_13,55,Accepted,2,2025-09-07 13:30:12
+user_13,33,Accepted,4,2025-02-02 13:30:12
+user_13,79,Accepted,4,2024-10-28 13:30:12
+user_13,4,Time Limit Exceeded,4,2025-01-28 13:30:12
+user_13,58,Wrong Answer,2,2025-07-04 13:30:12
+user_13,80,Time Limit Exceeded,3,2025-05-05 13:30:12
+user_13,5,Time Limit Exceeded,3,2024-12-01 13:30:12
+user_14,44,Time Limit Exceeded,5,2025-08-13 13:30:12
+user_14,42,Time Limit Exceeded,3,2025-02-15 13:30:12
+user_14,36,Wrong Answer,1,2025-07-22 13:30:12
+user_14,16,Accepted,5,2025-04-24 13:30:12
+user_14,68,Wrong Answer,3,2024-12-17 13:30:12
+user_14,4,Wrong Answer,5,2025-05-03 13:30:12
+user_14,51,Accepted,1,2025-05-01 13:30:12
+user_14,11,Accepted,2,2024-10-23 13:30:12
+user_14,19,Time Limit Exceeded,1,2024-12-09 13:30:12
+user_14,37,Wrong Answer,5,2025-02-11 13:30:12
+user_14,81,Wrong Answer,1,2025-06-20 13:30:12
+user_14,35,Accepted,1,2025-02-06 13:30:12
+user_14,76,Time Limit Exceeded,5,2025-03-23 13:30:12
+user_14,77,Time Limit Exceeded,1,2024-12-18 13:30:12
+user_14,26,Wrong Answer,4,2025-09-09 13:30:12
+user_14,5,Wrong Answer,2,2024-11-12 13:30:12
+user_14,88,Wrong Answer,2,2025-06-06 13:30:12
+user_14,39,Wrong Answer,1,2024-11-21 13:30:12
+user_14,96,Accepted,2,2025-07-12 13:30:12
+user_14,18,Time Limit Exceeded,2,2024-12-30 13:30:12
+user_14,28,Wrong Answer,1,2025-08-12 13:30:12
+user_14,41,Accepted,5,2024-12-16 13:30:12
+user_14,78,Accepted,4,2025-08-13 13:30:12
+user_14,80,Accepted,2,2025-06-15 13:30:12
+user_14,93,Time Limit Exceeded,4,2025-05-29 13:30:12
+user_14,66,Wrong Answer,1,2025-02-06 13:30:12
+user_14,52,Wrong Answer,3,2025-04-05 13:30:12
+user_14,90,Wrong Answer,3,2025-05-07 13:30:12
+user_14,10,Wrong Answer,2,2025-08-21 13:30:12
+user_14,97,Time Limit Exceeded,3,2025-02-16 13:30:12
+user_14,38,Wrong Answer,1,2024-12-31 13:30:12
+user_14,2,Accepted,2,2025-02-21 13:30:12
+user_14,1,Accepted,1,2025-05-07 13:30:12
+user_14,58,Wrong Answer,2,2025-04-24 13:30:12
+user_14,73,Time Limit Exceeded,3,2025-01-13 13:30:12
+user_14,6,Wrong Answer,5,2025-09-16 13:30:12
+user_14,9,Accepted,3,2025-03-05 13:30:12
+user_14,63,Wrong Answer,1,2024-12-31 13:30:12
+user_14,64,Time Limit Exceeded,5,2025-05-13 13:30:12
+user_15,60,Accepted,5,2025-08-10 13:30:12
+user_15,89,Accepted,3,2025-08-04 13:30:12
+user_15,65,Time Limit Exceeded,4,2024-11-12 13:30:12
+user_15,93,Time Limit Exceeded,5,2025-03-21 13:30:12
+user_15,20,Wrong Answer,3,2025-09-08 13:30:12
+user_15,95,Time Limit Exceeded,1,2025-04-06 13:30:12
+user_15,64,Accepted,4,2025-06-12 13:30:12
+user_15,76,Wrong Answer,4,2025-07-06 13:30:12
+user_15,21,Accepted,3,2025-07-08 13:30:12
+user_15,12,Wrong Answer,2,2025-05-05 13:30:12
+user_15,78,Wrong Answer,4,2024-11-01 13:30:12
+user_15,47,Time Limit Exceeded,3,2025-04-18 13:30:12
+user_15,53,Accepted,2,2025-04-22 13:30:12
+user_15,9,Time Limit Exceeded,4,2025-04-27 13:30:12
+user_15,8,Time Limit Exceeded,4,2025-03-01 13:30:12
+user_15,15,Wrong Answer,2,2025-09-18 13:30:12
+user_15,86,Time Limit Exceeded,3,2025-08-05 13:30:12
+user_15,33,Accepted,1,2024-12-22 13:30:12
+user_15,88,Time Limit Exceeded,5,2025-03-06 13:30:12
+user_15,99,Accepted,5,2025-03-31 13:30:12
+user_15,92,Wrong Answer,1,2025-03-07 13:30:12
+user_15,5,Wrong Answer,3,2025-02-15 13:30:12
+user_16,25,Wrong Answer,2,2024-10-20 13:30:12
+user_16,79,Time Limit Exceeded,2,2025-03-26 13:30:12
+user_16,52,Wrong Answer,3,2025-08-13 13:30:12
+user_16,4,Accepted,1,2024-12-09 13:30:12
+user_16,3,Wrong Answer,5,2024-11-09 13:30:12
+user_16,23,Accepted,1,2025-03-18 13:30:12
+user_16,91,Time Limit Exceeded,2,2024-12-04 13:30:12
+user_16,27,Accepted,1,2024-10-17 13:30:12
+user_16,99,Time Limit Exceeded,4,2025-09-02 13:30:12
+user_16,66,Time Limit Exceeded,1,2025-10-03 13:30:12
+user_16,82,Time Limit Exceeded,2,2024-12-23 13:30:12
+user_16,65,Wrong Answer,5,2024-11-13 13:30:12
+user_16,41,Accepted,3,2024-10-29 13:30:12
+user_16,2,Wrong Answer,2,2025-01-12 13:30:12
+user_16,5,Accepted,2,2025-08-07 13:30:12
+user_16,57,Accepted,2,2024-11-22 13:30:12
+user_16,62,Time Limit Exceeded,3,2024-11-29 13:30:12
+user_16,88,Wrong Answer,2,2025-05-04 13:30:12
+user_16,89,Accepted,5,2025-03-18 13:30:12
+user_16,1,Wrong Answer,5,2025-05-26 13:30:12
+user_16,32,Wrong Answer,5,2025-06-14 13:30:12
+user_16,11,Wrong Answer,2,2025-04-15 13:30:12
+user_16,95,Accepted,4,2025-07-26 13:30:12
+user_16,31,Accepted,3,2025-07-16 13:30:12
+user_16,28,Time Limit Exceeded,4,2025-05-13 13:30:12
+user_16,37,Accepted,2,2025-03-15 13:30:12
+user_16,60,Accepted,3,2025-09-11 13:30:12
+user_16,77,Accepted,4,2025-07-20 13:30:12
+user_16,92,Accepted,5,2025-07-10 13:30:12
+user_16,97,Wrong Answer,3,2025-01-24 13:30:12
+user_16,10,Wrong Answer,4,2025-06-10 13:30:12
+user_16,86,Accepted,4,2025-02-13 13:30:12
+user_16,55,Time Limit Exceeded,2,2025-06-18 13:30:12
+user_16,70,Accepted,4,2025-06-18 13:30:12
+user_16,43,Wrong Answer,4,2025-02-07 13:30:12
+user_17,32,Accepted,1,2025-02-01 13:30:12
+user_17,98,Accepted,2,2025-09-18 13:30:12
+user_17,29,Accepted,2,2025-05-25 13:30:12
+user_17,35,Accepted,3,2024-12-12 13:30:12
+user_17,75,Time Limit Exceeded,1,2025-07-16 13:30:12
+user_17,43,Wrong Answer,3,2025-01-24 13:30:12
+user_17,14,Time Limit Exceeded,1,2025-03-21 13:30:12
+user_17,41,Accepted,5,2025-04-19 13:30:12
+user_17,51,Wrong Answer,5,2025-04-01 13:30:12
+user_17,36,Wrong Answer,4,2025-07-13 13:30:12
+user_17,63,Wrong Answer,3,2024-12-12 13:30:12
+user_17,87,Time Limit Exceeded,5,2025-04-18 13:30:12
+user_17,70,Time Limit Exceeded,1,2025-02-03 13:30:12
+user_17,47,Wrong Answer,4,2025-09-26 13:30:12
+user_17,24,Accepted,2,2024-12-06 13:30:12
+user_17,62,Accepted,2,2024-12-28 13:30:12
+user_17,60,Accepted,2,2025-01-21 13:30:12
+user_17,97,Time Limit Exceeded,3,2025-06-26 13:30:12
+user_17,10,Wrong Answer,4,2025-06-08 13:30:12
+user_17,21,Accepted,5,2025-03-11 13:30:12
+user_17,19,Accepted,3,2024-10-30 13:30:12
+user_17,58,Time Limit Exceeded,1,2025-04-25 13:30:12
+user_17,59,Accepted,4,2024-11-14 13:30:12
+user_17,38,Time Limit Exceeded,1,2025-08-19 13:30:12
+user_17,1,Accepted,4,2025-03-28 13:30:12
+user_17,55,Wrong Answer,5,2025-02-20 13:30:12
+user_17,84,Accepted,5,2024-10-14 13:30:12
+user_17,50,Wrong Answer,3,2025-08-29 13:30:12
+user_17,53,Time Limit Exceeded,5,2024-10-12 13:30:12
+user_17,91,Accepted,5,2025-07-13 13:30:12
+user_17,74,Accepted,1,2025-07-29 13:30:12
+user_17,33,Wrong Answer,4,2025-06-27 13:30:12
+user_17,81,Wrong Answer,3,2025-08-01 13:30:12
+user_17,95,Accepted,2,2024-12-08 13:30:12
+user_17,88,Time Limit Exceeded,1,2024-12-28 13:30:12
+user_17,15,Accepted,1,2024-12-12 13:30:12
+user_17,18,Wrong Answer,1,2025-07-22 13:30:12
+user_17,72,Time Limit Exceeded,3,2025-08-20 13:30:12
+user_17,7,Accepted,2,2025-01-09 13:30:12
+user_17,23,Wrong Answer,3,2024-10-23 13:30:12
+user_17,9,Accepted,1,2024-11-06 13:30:12
+user_17,54,Accepted,5,2024-10-30 13:30:12
+user_17,71,Wrong Answer,3,2024-11-19 13:30:12
+user_17,77,Wrong Answer,4,2025-07-21 13:30:12
+user_17,27,Accepted,2,2025-04-09 13:30:12
+user_17,56,Time Limit Exceeded,3,2024-10-19 13:30:12
+user_17,76,Time Limit Exceeded,3,2024-12-19 13:30:12
+user_17,80,Wrong Answer,1,2025-01-30 13:30:12
+user_17,66,Accepted,3,2024-10-16 13:30:12
+user_17,8,Time Limit Exceeded,5,2025-03-29 13:30:12
+user_17,26,Accepted,5,2024-10-21 13:30:12
+user_17,11,Accepted,3,2024-12-08 13:30:12
+user_17,28,Wrong Answer,4,2025-06-18 13:30:12
+user_17,39,Accepted,5,2024-11-16 13:30:12
+user_17,52,Accepted,5,2025-07-29 13:30:12
+user_17,5,Wrong Answer,5,2025-03-07 13:30:12
+user_17,78,Time Limit Exceeded,5,2025-05-12 13:30:12
+user_17,49,Accepted,5,2025-09-14 13:30:12
+user_17,61,Time Limit Exceeded,5,2025-03-23 13:30:12
+user_18,78,Accepted,3,2025-09-03 13:30:12
+user_18,18,Wrong Answer,1,2024-10-07 13:30:12
+user_18,58,Time Limit Exceeded,5,2024-12-16 13:30:12
+user_18,77,Time Limit Exceeded,1,2025-08-15 13:30:12
+user_18,50,Accepted,1,2025-04-23 13:30:12
+user_18,96,Time Limit Exceeded,5,2025-06-10 13:30:12
+user_18,43,Accepted,4,2025-06-21 13:30:12
+user_18,67,Time Limit Exceeded,1,2025-07-24 13:30:12
+user_18,35,Wrong Answer,4,2024-12-14 13:30:12
+user_18,23,Accepted,3,2024-11-01 13:30:12
+user_18,27,Time Limit Exceeded,3,2025-06-04 13:30:12
+user_18,52,Wrong Answer,1,2025-04-29 13:30:12
+user_18,57,Time Limit Exceeded,4,2025-06-18 13:30:12
+user_18,51,Time Limit Exceeded,4,2025-01-20 13:30:12
+user_18,2,Accepted,4,2024-11-25 13:30:12
+user_18,79,Wrong Answer,1,2025-06-29 13:30:12
+user_18,90,Time Limit Exceeded,4,2025-04-10 13:30:12
+user_18,17,Accepted,4,2024-12-23 13:30:12
+user_18,83,Time Limit Exceeded,3,2025-04-25 13:30:12
+user_18,3,Wrong Answer,2,2024-11-20 13:30:12
+user_18,31,Time Limit Exceeded,4,2025-03-15 13:30:12
+user_18,94,Accepted,5,2025-09-29 13:30:12
+user_18,60,Accepted,1,2024-11-05 13:30:12
+user_18,93,Accepted,2,2024-12-13 13:30:12
+user_18,100,Wrong Answer,4,2025-05-15 13:30:12
+user_18,9,Wrong Answer,4,2024-12-30 13:30:12
+user_18,42,Wrong Answer,4,2025-09-27 13:30:12
+user_18,47,Time Limit Exceeded,4,2024-11-07 13:30:12
+user_18,7,Time Limit Exceeded,1,2024-12-17 13:30:12
+user_18,28,Wrong Answer,4,2025-04-10 13:30:12
+user_18,66,Accepted,1,2025-03-28 13:30:12
+user_18,14,Accepted,5,2025-08-20 13:30:12
+user_18,97,Time Limit Exceeded,1,2024-10-19 13:30:12
+user_18,63,Accepted,1,2025-07-20 13:30:12
+user_18,82,Accepted,2,2025-07-30 13:30:12
+user_19,42,Accepted,4,2024-12-18 13:30:12
+user_19,33,Accepted,1,2024-12-07 13:30:12
+user_19,18,Time Limit Exceeded,4,2024-11-14 13:30:12
+user_19,60,Time Limit Exceeded,5,2025-08-18 13:30:12
+user_19,49,Accepted,2,2025-04-04 13:30:12
+user_19,45,Accepted,5,2024-11-06 13:30:12
+user_19,88,Wrong Answer,5,2025-04-23 13:30:12
+user_19,51,Accepted,3,2025-03-29 13:30:12
+user_19,27,Time Limit Exceeded,4,2025-05-11 13:30:12
+user_19,74,Wrong Answer,2,2024-10-13 13:30:12
+user_19,93,Accepted,3,2025-08-02 13:30:12
+user_19,38,Wrong Answer,3,2025-01-13 13:30:12
+user_19,52,Time Limit Exceeded,5,2025-06-14 13:30:12
+user_19,64,Time Limit Exceeded,3,2025-04-27 13:30:12
+user_19,82,Accepted,4,2025-06-02 13:30:12
+user_19,65,Accepted,2,2024-10-12 13:30:12
+user_19,92,Accepted,5,2025-01-08 13:30:12
+user_19,90,Accepted,3,2025-06-22 13:30:12
+user_19,30,Accepted,3,2025-03-29 13:30:12
+user_19,21,Time Limit Exceeded,5,2025-04-01 13:30:12
+user_19,4,Wrong Answer,2,2025-02-11 13:30:12
+user_19,57,Accepted,3,2025-08-18 13:30:12
+user_19,36,Time Limit Exceeded,2,2024-10-28 13:30:12
+user_19,17,Wrong Answer,3,2025-09-29 13:30:12
+user_19,86,Time Limit Exceeded,3,2025-07-03 13:30:12
+user_19,32,Wrong Answer,2,2025-05-01 13:30:12
+user_19,28,Wrong Answer,5,2025-09-04 13:30:12
+user_19,5,Accepted,5,2024-10-13 13:30:12
+user_19,98,Time Limit Exceeded,5,2025-07-18 13:30:12
+user_19,14,Wrong Answer,1,2024-12-23 13:30:12
+user_19,85,Wrong Answer,4,2024-10-18 13:30:12
+user_19,76,Accepted,5,2025-03-07 13:30:12
+user_19,100,Accepted,2,2025-07-19 13:30:12
+user_19,3,Time Limit Exceeded,1,2025-03-24 13:30:12
+user_19,78,Time Limit Exceeded,5,2025-05-18 13:30:12
+user_19,34,Time Limit Exceeded,2,2025-08-24 13:30:12
+user_19,12,Wrong Answer,5,2025-05-09 13:30:12
+user_19,73,Time Limit Exceeded,1,2025-07-10 13:30:12
+user_19,83,Time Limit Exceeded,1,2025-01-09 13:30:12
+user_19,81,Accepted,5,2024-11-09 13:30:12
+user_19,43,Accepted,4,2025-09-26 13:30:12
+user_19,54,Time Limit Exceeded,1,2025-09-27 13:30:12
+user_19,11,Wrong Answer,4,2024-11-07 13:30:12
+user_20,21,Wrong Answer,4,2025-04-26 13:30:12
+user_20,49,Time Limit Exceeded,3,2025-07-22 13:30:12
+user_20,35,Accepted,2,2024-11-28 13:30:12
+user_20,16,Wrong Answer,2,2025-04-23 13:30:12
+user_20,90,Accepted,5,2025-09-27 13:30:12
+user_20,2,Wrong Answer,4,2025-06-11 13:30:12
+user_20,39,Time Limit Exceeded,2,2025-05-04 13:30:12
+user_20,85,Time Limit Exceeded,3,2025-04-08 13:30:12
+user_20,17,Accepted,1,2024-10-05 13:30:12
+user_20,75,Time Limit Exceeded,2,2025-05-13 13:30:12
+user_20,97,Accepted,4,2025-08-29 13:30:12
+user_20,93,Accepted,4,2025-06-22 13:30:12
+user_20,14,Accepted,3,2025-04-11 13:30:12
+user_20,65,Accepted,3,2025-06-09 13:30:12
+user_20,20,Wrong Answer,3,2025-09-25 13:30:12
+user_20,22,Wrong Answer,4,2025-04-15 13:30:12
+user_20,73,Time Limit Exceeded,5,2025-10-02 13:30:12
+user_20,68,Wrong Answer,3,2025-04-08 13:30:12
+user_20,76,Accepted,4,2025-08-31 13:30:12
+user_20,34,Accepted,4,2025-02-23 13:30:12
+user_20,82,Wrong Answer,3,2025-08-30 13:30:12
+user_20,57,Accepted,4,2024-11-10 13:30:12
+user_20,33,Accepted,3,2025-08-26 13:30:12
+user_20,78,Wrong Answer,1,2025-02-05 13:30:12
+user_20,42,Wrong Answer,2,2025-04-12 13:30:12
+user_20,5,Wrong Answer,5,2025-06-24 13:30:12
+user_20,92,Wrong Answer,4,2024-12-26 13:30:12
+user_20,74,Wrong Answer,3,2025-07-17 13:30:12
+user_20,46,Wrong Answer,2,2025-07-31 13:30:12
+user_20,40,Wrong Answer,3,2024-12-29 13:30:12
+user_20,69,Wrong Answer,2,2025-07-29 13:30:12
+user_20,58,Time Limit Exceeded,2,2025-03-12 13:30:12
+user_20,64,Time Limit Exceeded,5,2025-08-31 13:30:12
+user_20,98,Wrong Answer,3,2025-03-20 13:30:12
+user_20,37,Accepted,1,2024-10-11 13:30:12
+user_20,71,Wrong Answer,2,2025-01-29 13:30:12
+user_20,10,Time Limit Exceeded,2,2025-08-26 13:30:12
+user_20,50,Wrong Answer,4,2025-01-07 13:30:12
+user_20,79,Accepted,5,2024-12-29 13:30:12
+user_20,48,Wrong Answer,4,2025-03-25 13:30:12
+user_20,81,Time Limit Exceeded,4,2025-08-06 13:30:12
+user_20,18,Wrong Answer,5,2025-03-08 13:30:12
+user_20,77,Accepted,4,2025-07-28 13:30:12
+user_20,41,Accepted,2,2024-10-21 13:30:12
+user_20,3,Time Limit Exceeded,5,2025-06-24 13:30:12
+user_20,30,Accepted,5,2025-08-20 13:30:12
+user_20,45,Accepted,3,2024-10-30 13:30:12
+user_20,59,Wrong Answer,2,2024-10-03 13:30:12
+user_20,99,Time Limit Exceeded,4,2025-04-26 13:30:12
+user_20,25,Accepted,5,2025-08-09 13:30:12
+user_21,44,Time Limit Exceeded,3,2024-10-29 13:30:12
+user_21,13,Time Limit Exceeded,2,2025-08-24 13:30:12
+user_21,74,Accepted,5,2025-08-09 13:30:12
+user_21,83,Time Limit Exceeded,5,2025-03-28 13:30:12
+user_21,50,Time Limit Exceeded,5,2025-02-02 13:30:12
+user_21,38,Time Limit Exceeded,3,2025-07-06 13:30:12
+user_21,17,Wrong Answer,4,2025-07-30 13:30:12
+user_21,98,Accepted,2,2025-02-08 13:30:12
+user_21,39,Time Limit Exceeded,4,2025-01-29 13:30:12
+user_21,15,Accepted,3,2024-10-24 13:30:12
+user_21,100,Time Limit Exceeded,1,2025-08-09 13:30:12
+user_21,29,Time Limit Exceeded,5,2024-12-07 13:30:12
+user_21,4,Accepted,3,2025-09-17 13:30:12
+user_22,16,Accepted,5,2025-06-30 13:30:12
+user_22,14,Time Limit Exceeded,1,2024-10-14 13:30:12
+user_22,78,Time Limit Exceeded,4,2025-06-02 13:30:12
+user_22,53,Time Limit Exceeded,4,2025-07-23 13:30:12
+user_22,23,Wrong Answer,2,2025-04-16 13:30:12
+user_22,18,Time Limit Exceeded,4,2025-08-01 13:30:12
+user_22,13,Wrong Answer,4,2024-10-04 13:30:12
+user_22,42,Accepted,1,2025-02-03 13:30:12
+user_22,77,Time Limit Exceeded,2,2025-09-13 13:30:12
+user_22,11,Time Limit Exceeded,1,2025-06-22 13:30:12
+user_22,15,Time Limit Exceeded,5,2025-07-31 13:30:12
+user_22,8,Accepted,1,2025-06-22 13:30:12
+user_22,90,Time Limit Exceeded,1,2025-03-06 13:30:12
+user_22,74,Accepted,1,2025-01-19 13:30:12
+user_22,86,Time Limit Exceeded,2,2025-01-04 13:30:12
+user_22,96,Accepted,1,2025-08-27 13:30:12
+user_22,87,Time Limit Exceeded,5,2025-06-26 13:30:12
+user_22,60,Accepted,5,2024-10-13 13:30:12
+user_22,49,Accepted,3,2025-03-10 13:30:12
+user_23,37,Accepted,3,2025-08-16 13:30:12
+user_23,62,Accepted,1,2025-06-18 13:30:12
+user_23,49,Accepted,1,2025-04-13 13:30:12
+user_23,55,Accepted,2,2024-12-19 13:30:12
+user_23,88,Accepted,4,2025-07-03 13:30:12
+user_23,5,Accepted,4,2024-11-21 13:30:12
+user_23,22,Time Limit Exceeded,4,2025-03-24 13:30:12
+user_23,43,Accepted,5,2025-09-13 13:30:12
+user_23,18,Accepted,1,2024-11-26 13:30:12
+user_23,53,Time Limit Exceeded,2,2025-06-27 13:30:12
+user_23,3,Wrong Answer,3,2025-05-17 13:30:12
+user_23,38,Accepted,5,2025-07-22 13:30:12
+user_23,63,Accepted,4,2024-11-30 13:30:12
+user_23,11,Time Limit Exceeded,4,2025-02-06 13:30:12
+user_23,100,Accepted,1,2025-09-04 13:30:12
+user_23,2,Wrong Answer,3,2024-11-04 13:30:12
+user_23,1,Time Limit Exceeded,4,2024-12-01 13:30:12
+user_23,70,Accepted,2,2025-08-20 13:30:12
+user_23,60,Wrong Answer,2,2025-06-11 13:30:12
+user_23,77,Wrong Answer,3,2024-11-13 13:30:12
+user_23,84,Time Limit Exceeded,5,2025-02-19 13:30:12
+user_23,41,Time Limit Exceeded,3,2025-02-24 13:30:12
+user_23,74,Time Limit Exceeded,2,2024-12-02 13:30:12
+user_23,58,Accepted,1,2025-05-24 13:30:12
+user_23,94,Accepted,3,2025-04-20 13:30:12
+user_23,52,Time Limit Exceeded,1,2025-06-30 13:30:12
+user_23,66,Accepted,1,2024-10-13 13:30:12
+user_23,83,Accepted,4,2025-04-17 13:30:12
+user_23,54,Wrong Answer,2,2025-01-16 13:30:12
+user_23,51,Accepted,1,2025-01-19 13:30:12
+user_23,21,Accepted,3,2025-08-04 13:30:12
+user_23,8,Time Limit Exceeded,4,2025-03-17 13:30:12
+user_23,48,Accepted,2,2025-06-09 13:30:12
+user_23,69,Accepted,5,2025-03-09 13:30:12
+user_23,75,Wrong Answer,1,2025-09-16 13:30:12
+user_23,59,Accepted,4,2025-02-26 13:30:12
+user_23,9,Time Limit Exceeded,2,2025-02-09 13:30:12
+user_23,12,Accepted,4,2025-08-22 13:30:12
+user_23,95,Wrong Answer,5,2025-07-09 13:30:12
+user_23,28,Accepted,3,2025-01-17 13:30:12
+user_23,35,Wrong Answer,5,2025-01-26 13:30:12
+user_23,25,Wrong Answer,2,2024-10-29 13:30:12
+user_23,91,Accepted,5,2025-04-10 13:30:12
+user_23,14,Time Limit Exceeded,5,2025-07-14 13:30:12
+user_23,17,Time Limit Exceeded,4,2024-10-30 13:30:12
+user_23,27,Wrong Answer,4,2025-01-29 13:30:12
+user_23,93,Wrong Answer,1,2025-07-17 13:30:12
+user_23,90,Accepted,3,2025-09-19 13:30:12
+user_23,99,Accepted,1,2024-12-26 13:30:12
+user_23,4,Time Limit Exceeded,5,2025-01-09 13:30:12
+user_23,76,Accepted,4,2025-09-08 13:30:12
+user_24,93,Accepted,4,2025-02-20 13:30:12
+user_24,49,Time Limit Exceeded,5,2025-01-27 13:30:12
+user_24,47,Time Limit Exceeded,1,2025-02-18 13:30:12
+user_24,79,Wrong Answer,4,2025-04-29 13:30:12
+user_24,45,Accepted,3,2025-06-27 13:30:12
+user_24,43,Accepted,3,2025-01-11 13:30:12
+user_24,86,Accepted,3,2024-11-15 13:30:12
+user_24,77,Wrong Answer,1,2025-04-24 13:30:12
+user_24,26,Time Limit Exceeded,3,2024-10-24 13:30:12
+user_24,99,Wrong Answer,5,2025-04-18 13:30:12
+user_24,4,Accepted,4,2025-07-09 13:30:12
+user_24,59,Wrong Answer,3,2024-11-25 13:30:12
+user_24,1,Accepted,5,2024-12-22 13:30:12
+user_24,68,Wrong Answer,5,2025-01-04 13:30:12
+user_24,17,Wrong Answer,5,2025-04-27 13:30:12
+user_24,91,Wrong Answer,3,2025-07-28 13:30:12
+user_24,87,Time Limit Exceeded,1,2025-04-04 13:30:12
+user_24,41,Wrong Answer,4,2025-02-02 13:30:12
+user_24,30,Wrong Answer,2,2025-05-13 13:30:12
+user_24,42,Time Limit Exceeded,4,2025-05-28 13:30:12
+user_24,2,Wrong Answer,2,2025-06-16 13:30:12
+user_24,27,Accepted,1,2025-01-14 13:30:12
+user_25,20,Wrong Answer,3,2025-01-05 13:30:12
+user_25,40,Wrong Answer,5,2025-01-04 13:30:12
+user_25,19,Wrong Answer,4,2025-04-18 13:30:12
+user_25,87,Accepted,4,2025-02-23 13:30:12
+user_25,36,Time Limit Exceeded,5,2024-10-27 13:30:12
+user_25,83,Time Limit Exceeded,2,2025-07-05 13:30:12
+user_25,60,Time Limit Exceeded,3,2025-06-20 13:30:12
+user_25,85,Time Limit Exceeded,3,2025-05-01 13:30:12
+user_25,65,Wrong Answer,2,2024-12-28 13:30:12
+user_25,11,Wrong Answer,2,2024-11-21 13:30:12
+user_25,70,Wrong Answer,4,2025-03-05 13:30:12
+user_25,22,Wrong Answer,5,2025-04-29 13:30:12
+user_25,24,Time Limit Exceeded,2,2025-07-13 13:30:12
+user_25,9,Accepted,1,2025-05-31 13:30:12
+user_25,44,Accepted,4,2025-05-03 13:30:12
+user_25,57,Wrong Answer,2,2025-08-14 13:30:12
+user_25,63,Accepted,4,2025-09-22 13:30:12
+user_25,1,Accepted,3,2025-08-13 13:30:12
+user_25,50,Time Limit Exceeded,1,2025-07-21 13:30:12
+user_25,34,Wrong Answer,4,2025-09-24 13:30:12
+user_25,16,Time Limit Exceeded,1,2025-01-30 13:30:12
+user_25,45,Accepted,4,2024-12-12 13:30:12
+user_25,8,Wrong Answer,2,2024-10-14 13:30:12
+user_25,53,Accepted,1,2025-01-05 13:30:12
+user_25,76,Accepted,2,2025-01-12 13:30:12
+user_25,37,Wrong Answer,3,2025-08-09 13:30:12
+user_25,51,Wrong Answer,5,2025-03-17 13:30:12
+user_25,43,Accepted,4,2024-10-14 13:30:12
+user_25,15,Accepted,3,2025-06-24 13:30:12
+user_25,77,Accepted,3,2024-12-20 13:30:12
+user_25,28,Accepted,5,2024-12-16 13:30:12
+user_25,69,Time Limit Exceeded,3,2025-03-17 13:30:12
+user_25,67,Accepted,4,2025-01-19 13:30:12
+user_25,2,Wrong Answer,5,2025-07-24 13:30:12
+user_25,84,Wrong Answer,2,2024-10-25 13:30:12
+user_25,88,Wrong Answer,1,2024-12-07 13:30:12
+user_25,48,Accepted,2,2025-05-03 13:30:12
+user_25,27,Accepted,5,2024-10-19 13:30:12
+user_25,49,Time Limit Exceeded,5,2025-02-06 13:30:12
+user_26,14,Time Limit Exceeded,5,2025-05-15 13:30:12
+user_26,80,Accepted,5,2025-08-15 13:30:12
+user_26,13,Time Limit Exceeded,2,2025-01-14 13:30:12
+user_26,51,Accepted,3,2025-10-02 13:30:12
+user_26,60,Wrong Answer,1,2025-07-24 13:30:12
+user_26,98,Time Limit Exceeded,3,2025-07-16 13:30:12
+user_26,38,Time Limit Exceeded,3,2025-03-11 13:30:12
+user_26,99,Time Limit Exceeded,5,2025-02-26 13:30:12
+user_26,26,Time Limit Exceeded,4,2025-01-01 13:30:12
+user_26,66,Wrong Answer,4,2025-09-19 13:30:12
+user_26,52,Wrong Answer,4,2025-05-14 13:30:12
+user_26,48,Wrong Answer,3,2025-08-12 13:30:12
+user_26,97,Accepted,5,2025-07-25 13:30:12
+user_26,44,Time Limit Exceeded,2,2025-01-20 13:30:12
+user_26,19,Accepted,1,2025-09-05 13:30:12
+user_26,77,Wrong Answer,4,2025-03-01 13:30:12
+user_26,71,Wrong Answer,2,2025-01-09 13:30:12
+user_26,90,Wrong Answer,5,2025-03-26 13:30:12
+user_26,16,Wrong Answer,4,2024-10-08 13:30:12
+user_26,50,Wrong Answer,5,2025-02-22 13:30:12
+user_26,27,Wrong Answer,4,2025-04-18 13:30:12
+user_26,75,Accepted,4,2025-09-05 13:30:12
+user_26,3,Accepted,1,2025-08-17 13:30:12
+user_26,7,Accepted,5,2025-01-15 13:30:12
+user_26,45,Wrong Answer,4,2025-07-20 13:30:12
+user_26,85,Wrong Answer,4,2025-04-22 13:30:12
+user_26,28,Wrong Answer,2,2025-01-30 13:30:12
+user_26,24,Accepted,4,2024-11-11 13:30:12
+user_26,42,Time Limit Exceeded,5,2024-10-11 13:30:12
+user_26,12,Accepted,4,2025-04-19 13:30:12
+user_26,93,Wrong Answer,5,2025-02-26 13:30:12
+user_26,64,Time Limit Exceeded,2,2025-03-07 13:30:12
+user_26,65,Time Limit Exceeded,4,2024-12-13 13:30:12
+user_26,82,Accepted,2,2024-10-23 13:30:12
+user_26,53,Accepted,5,2025-04-27 13:30:12
+user_26,39,Wrong Answer,5,2025-06-13 13:30:12
+user_26,88,Wrong Answer,2,2025-01-03 13:30:12
+user_26,78,Accepted,3,2025-06-26 13:30:12
+user_26,11,Accepted,2,2025-07-28 13:30:12
+user_26,47,Wrong Answer,5,2025-01-03 13:30:12
+user_26,23,Wrong Answer,2,2025-05-16 13:30:12
+user_26,62,Accepted,1,2025-09-09 13:30:12
+user_26,43,Accepted,5,2024-12-06 13:30:12
+user_26,9,Time Limit Exceeded,4,2025-06-21 13:30:12
+user_27,18,Wrong Answer,5,2025-08-24 13:30:12
+user_27,47,Wrong Answer,3,2025-07-11 13:30:12
+user_27,72,Accepted,4,2025-04-03 13:30:12
+user_27,35,Time Limit Exceeded,3,2025-08-10 13:30:12
+user_27,41,Wrong Answer,5,2025-08-07 13:30:12
+user_27,59,Wrong Answer,5,2025-02-26 13:30:12
+user_27,63,Wrong Answer,3,2025-09-23 13:30:12
+user_27,37,Time Limit Exceeded,4,2025-06-09 13:30:12
+user_27,75,Wrong Answer,3,2024-11-11 13:30:12
+user_27,61,Time Limit Exceeded,2,2025-09-16 13:30:12
+user_27,99,Wrong Answer,5,2025-01-09 13:30:12
+user_27,9,Accepted,5,2025-05-16 13:30:12
+user_27,51,Time Limit Exceeded,5,2025-08-29 13:30:12
+user_27,54,Time Limit Exceeded,1,2024-10-10 13:30:12
+user_27,28,Accepted,2,2025-05-20 13:30:12
+user_27,69,Accepted,4,2025-06-29 13:30:12
+user_27,97,Wrong Answer,2,2025-06-24 13:30:12
+user_27,58,Accepted,5,2025-03-13 13:30:12
+user_27,44,Wrong Answer,4,2025-03-03 13:30:12
+user_27,93,Time Limit Exceeded,1,2025-09-11 13:30:12
+user_27,60,Wrong Answer,2,2024-10-26 13:30:12
+user_27,24,Wrong Answer,5,2025-09-10 13:30:12
+user_27,32,Time Limit Exceeded,1,2025-04-26 13:30:12
+user_27,30,Wrong Answer,5,2025-06-28 13:30:12
+user_27,23,Wrong Answer,4,2024-12-18 13:30:12
+user_27,36,Time Limit Exceeded,4,2025-02-01 13:30:12
+user_27,78,Accepted,4,2025-06-24 13:30:12
+user_27,67,Wrong Answer,2,2025-06-20 13:30:12
+user_27,90,Accepted,4,2025-03-28 13:30:12
+user_27,80,Accepted,2,2025-10-01 13:30:12
+user_27,82,Time Limit Exceeded,5,2025-08-14 13:30:12
+user_27,14,Wrong Answer,2,2025-03-17 13:30:12
+user_27,94,Accepted,4,2024-12-11 13:30:12
+user_27,64,Time Limit Exceeded,5,2025-06-05 13:30:12
+user_27,7,Wrong Answer,4,2025-03-08 13:30:12
+user_27,49,Wrong Answer,3,2025-09-09 13:30:12
+user_27,3,Accepted,5,2024-12-09 13:30:12
+user_27,95,Time Limit Exceeded,1,2025-05-27 13:30:12
+user_27,46,Wrong Answer,1,2025-07-04 13:30:12
+user_27,48,Accepted,1,2025-01-29 13:30:12
+user_27,57,Wrong Answer,5,2025-01-12 13:30:12
+user_27,65,Time Limit Exceeded,2,2025-08-19 13:30:12
+user_27,25,Accepted,2,2024-10-26 13:30:12
+user_27,29,Time Limit Exceeded,5,2025-02-18 13:30:12
+user_27,19,Time Limit Exceeded,2,2025-03-18 13:30:12
+user_27,26,Accepted,2,2024-11-23 13:30:12
+user_27,42,Wrong Answer,2,2025-04-28 13:30:12
+user_27,5,Accepted,4,2024-10-12 13:30:12
+user_27,1,Accepted,1,2025-04-13 13:30:12
+user_27,96,Wrong Answer,1,2025-07-17 13:30:12
+user_27,27,Time Limit Exceeded,2,2025-05-06 13:30:12
+user_27,73,Accepted,2,2024-11-04 13:30:12
+user_27,53,Time Limit Exceeded,3,2025-06-30 13:30:12
+user_27,85,Accepted,3,2025-01-21 13:30:12
+user_27,56,Accepted,4,2025-02-04 13:30:12
+user_27,79,Wrong Answer,1,2025-08-15 13:30:12
+user_27,66,Time Limit Exceeded,4,2025-06-25 13:30:12
+user_27,10,Wrong Answer,5,2025-07-29 13:30:12
+user_28,30,Accepted,4,2025-01-10 13:30:12
+user_28,3,Time Limit Exceeded,3,2025-09-30 13:30:12
+user_28,28,Time Limit Exceeded,1,2025-02-28 13:30:12
+user_28,94,Wrong Answer,5,2025-07-12 13:30:12
+user_28,8,Wrong Answer,1,2025-02-05 13:30:12
+user_28,29,Wrong Answer,4,2025-01-27 13:30:12
+user_28,84,Time Limit Exceeded,2,2024-10-29 13:30:12
+user_28,19,Wrong Answer,3,2025-05-08 13:30:12
+user_28,46,Accepted,5,2025-01-05 13:30:12
+user_28,49,Accepted,3,2025-03-08 13:30:12
+user_28,74,Wrong Answer,4,2025-09-14 13:30:12
+user_28,16,Time Limit Exceeded,4,2025-01-29 13:30:12
+user_28,12,Wrong Answer,2,2025-04-28 13:30:12
+user_28,45,Time Limit Exceeded,5,2025-04-27 13:30:12
+user_28,67,Wrong Answer,4,2025-08-12 13:30:12
+user_28,86,Time Limit Exceeded,4,2025-08-14 13:30:12
+user_28,83,Wrong Answer,4,2025-07-09 13:30:12
+user_28,39,Wrong Answer,4,2025-06-04 13:30:12
+user_28,18,Wrong Answer,2,2025-03-26 13:30:12
+user_28,6,Accepted,3,2025-07-08 13:30:12
+user_28,61,Time Limit Exceeded,3,2025-05-28 13:30:12
+user_28,68,Accepted,4,2025-01-24 13:30:12
+user_28,88,Accepted,5,2025-01-26 13:30:12
+user_28,2,Time Limit Exceeded,2,2025-07-22 13:30:12
+user_28,5,Accepted,1,2025-05-22 13:30:12
+user_28,51,Accepted,3,2024-11-27 13:30:12
+user_28,13,Accepted,3,2025-02-16 13:30:12
+user_28,75,Accepted,5,2024-12-11 13:30:12
+user_28,44,Wrong Answer,5,2024-12-10 13:30:12
+user_28,26,Time Limit Exceeded,5,2025-04-21 13:30:12
+user_28,34,Wrong Answer,2,2024-12-20 13:30:12
+user_28,65,Wrong Answer,5,2025-02-25 13:30:12
+user_28,17,Wrong Answer,2,2025-06-19 13:30:12
+user_28,85,Wrong Answer,1,2024-11-20 13:30:12
+user_28,20,Time Limit Exceeded,1,2025-01-05 13:30:12
+user_28,1,Time Limit Exceeded,5,2025-08-15 13:30:12
+user_29,78,Accepted,3,2025-01-05 13:30:12
+user_29,82,Accepted,2,2025-03-26 13:30:12
+user_29,38,Wrong Answer,1,2025-02-09 13:30:12
+user_29,10,Time Limit Exceeded,4,2025-05-14 13:30:12
+user_29,59,Accepted,5,2024-11-24 13:30:12
+user_29,70,Wrong Answer,1,2025-06-10 13:30:12
+user_29,12,Wrong Answer,3,2025-05-03 13:30:12
+user_29,22,Accepted,2,2024-12-06 13:30:12
+user_29,35,Accepted,2,2025-03-01 13:30:12
+user_29,45,Accepted,1,2024-12-29 13:30:12
+user_29,87,Accepted,4,2024-10-13 13:30:12
+user_29,86,Accepted,5,2025-01-12 13:30:12
+user_29,31,Time Limit Exceeded,5,2025-03-02 13:30:12
+user_29,77,Accepted,1,2025-09-01 13:30:12
+user_29,71,Accepted,1,2025-08-23 13:30:12
+user_29,100,Wrong Answer,2,2024-12-03 13:30:12
+user_29,76,Wrong Answer,2,2025-04-21 13:30:12
+user_29,47,Accepted,3,2024-10-13 13:30:12
+user_29,65,Accepted,1,2025-09-07 13:30:12
+user_29,69,Accepted,1,2025-02-15 13:30:12
+user_29,90,Time Limit Exceeded,5,2024-12-09 13:30:12
+user_29,62,Wrong Answer,1,2025-01-22 13:30:12
+user_29,16,Wrong Answer,1,2024-10-12 13:30:12
+user_29,40,Time Limit Exceeded,3,2025-07-11 13:30:12
+user_29,32,Time Limit Exceeded,4,2024-12-10 13:30:12
+user_29,20,Time Limit Exceeded,5,2025-08-30 13:30:12
+user_29,50,Wrong Answer,3,2025-06-10 13:30:12
+user_29,15,Time Limit Exceeded,3,2025-05-21 13:30:12
+user_29,52,Accepted,3,2025-03-04 13:30:12
+user_29,43,Wrong Answer,5,2025-05-09 13:30:12
+user_29,55,Accepted,5,2025-01-30 13:30:12
+user_29,3,Accepted,3,2024-11-28 13:30:12
+user_29,88,Accepted,5,2025-05-12 13:30:12
+user_29,33,Time Limit Exceeded,5,2025-02-04 13:30:12
+user_29,4,Accepted,5,2025-07-10 13:30:12
+user_29,56,Time Limit Exceeded,3,2025-08-19 13:30:12
+user_29,66,Wrong Answer,5,2024-10-08 13:30:12
+user_29,81,Accepted,5,2025-09-24 13:30:12
+user_29,60,Time Limit Exceeded,4,2025-08-22 13:30:12
+user_29,41,Time Limit Exceeded,5,2024-10-10 13:30:12
+user_29,92,Wrong Answer,2,2024-10-27 13:30:12
+user_29,6,Wrong Answer,5,2025-06-20 13:30:12
+user_29,1,Accepted,4,2025-07-25 13:30:12
+user_29,49,Wrong Answer,5,2025-04-21 13:30:12
+user_29,44,Accepted,4,2025-08-05 13:30:12
+user_29,98,Time Limit Exceeded,1,2024-11-03 13:30:12
+user_29,14,Wrong Answer,2,2025-05-28 13:30:12
+user_29,39,Time Limit Exceeded,1,2025-03-09 13:30:12
+user_29,17,Time Limit Exceeded,2,2025-06-13 13:30:12
+user_29,11,Time Limit Exceeded,4,2024-11-06 13:30:12
+user_30,89,Accepted,5,2025-09-18 13:30:12
+user_30,4,Time Limit Exceeded,3,2025-06-29 13:30:12
+user_30,21,Time Limit Exceeded,1,2025-08-27 13:30:12
+user_30,8,Wrong Answer,1,2024-11-26 13:30:12
+user_30,27,Accepted,2,2025-05-28 13:30:12
+user_30,49,Wrong Answer,4,2024-11-23 13:30:12
+user_30,69,Wrong Answer,1,2025-04-02 13:30:12
+user_30,35,Accepted,1,2024-12-10 13:30:12
+user_30,99,Time Limit Exceeded,1,2025-01-13 13:30:12
+user_30,26,Accepted,1,2025-04-01 13:30:12
+user_30,22,Wrong Answer,4,2024-11-26 13:30:12
+user_30,33,Wrong Answer,2,2025-08-14 13:30:12
+user_30,87,Wrong Answer,5,2024-10-04 13:30:12
+user_30,45,Time Limit Exceeded,1,2025-08-18 13:30:12
+user_30,1,Time Limit Exceeded,2,2024-12-26 13:30:12
+user_30,34,Time Limit Exceeded,4,2024-10-14 13:30:12
+user_30,58,Accepted,5,2025-02-12 13:30:12
+user_30,88,Time Limit Exceeded,4,2024-10-13 13:30:12
+user_30,78,Time Limit Exceeded,4,2025-08-25 13:30:12
+user_30,50,Accepted,4,2025-07-26 13:30:12
+user_30,77,Accepted,1,2025-03-18 13:30:12
+user_30,56,Accepted,5,2025-05-31 13:30:12
+user_30,64,Wrong Answer,3,2025-04-02 13:30:12
+user_30,25,Time Limit Exceeded,2,2025-08-20 13:30:12
+user_30,91,Wrong Answer,5,2024-12-13 13:30:12
+user_30,53,Time Limit Exceeded,4,2025-05-01 13:30:12
+user_30,59,Wrong Answer,4,2025-07-08 13:30:12
+user_30,37,Time Limit Exceeded,1,2024-12-29 13:30:12
+user_30,86,Accepted,1,2025-09-19 13:30:12
+user_30,39,Accepted,2,2024-10-29 13:30:12
+user_30,30,Accepted,4,2025-03-21 13:30:12
+user_30,73,Accepted,3,2025-07-28 13:30:12
+user_30,2,Wrong Answer,2,2025-01-17 13:30:12
+user_30,63,Wrong Answer,1,2025-09-10 13:30:12
+user_30,95,Accepted,2,2025-04-20 13:30:12
+user_30,98,Accepted,1,2025-05-19 13:30:12
+user_30,68,Time Limit Exceeded,1,2025-08-09 13:30:12
+user_30,19,Time Limit Exceeded,3,2024-11-05 13:30:12
+user_30,38,Accepted,2,2025-04-18 13:30:12
+user_30,55,Accepted,5,2025-05-15 13:30:12
+user_30,47,Accepted,3,2025-03-11 13:30:12
+user_30,84,Accepted,1,2024-10-12 13:30:12
+user_30,52,Wrong Answer,2,2025-06-04 13:30:12
+user_30,79,Time Limit Exceeded,5,2024-11-03 13:30:12
+user_30,24,Accepted,1,2024-10-19 13:30:12
+user_30,14,Time Limit Exceeded,3,2025-03-02 13:30:12
+user_30,5,Time Limit Exceeded,3,2025-04-19 13:30:12
+user_30,10,Accepted,3,2025-07-07 13:30:12
+user_31,95,Accepted,2,2024-11-30 13:30:12
+user_31,38,Time Limit Exceeded,5,2025-09-17 13:30:12
+user_31,72,Accepted,1,2025-05-30 13:30:12
+user_31,81,Wrong Answer,2,2025-05-11 13:30:12
+user_31,69,Wrong Answer,4,2025-04-10 13:30:12
+user_31,80,Accepted,5,2024-11-28 13:30:12
+user_31,98,Accepted,2,2024-12-13 13:30:12
+user_31,3,Wrong Answer,1,2025-03-17 13:30:12
+user_31,29,Wrong Answer,5,2025-01-29 13:30:12
+user_31,64,Time Limit Exceeded,1,2025-05-09 13:30:12
+user_31,21,Wrong Answer,3,2025-10-01 13:30:12
+user_31,91,Accepted,5,2024-10-20 13:30:12
+user_31,10,Wrong Answer,2,2025-05-02 13:30:12
+user_31,2,Time Limit Exceeded,5,2025-05-17 13:30:12
+user_31,67,Wrong Answer,4,2024-11-30 13:30:12
+user_31,20,Accepted,5,2025-06-15 13:30:12
+user_31,35,Accepted,4,2025-04-29 13:30:12
+user_31,6,Wrong Answer,2,2025-02-21 13:30:12
+user_31,77,Accepted,3,2024-12-31 13:30:12
+user_31,74,Accepted,4,2025-07-30 13:30:12
+user_31,62,Time Limit Exceeded,1,2025-07-12 13:30:12
+user_31,96,Accepted,5,2025-05-28 13:30:12
+user_31,19,Accepted,2,2025-06-07 13:30:12
+user_31,7,Time Limit Exceeded,5,2025-06-26 13:30:12
+user_31,71,Accepted,2,2025-05-26 13:30:12
+user_31,79,Time Limit Exceeded,3,2025-03-18 13:30:12
+user_31,39,Accepted,2,2025-05-10 13:30:12
+user_31,28,Time Limit Exceeded,4,2025-09-06 13:30:12
+user_31,88,Time Limit Exceeded,3,2025-07-10 13:30:12
+user_31,97,Time Limit Exceeded,2,2025-01-16 13:30:12
+user_31,5,Accepted,1,2025-06-24 13:30:12
+user_31,60,Accepted,4,2024-10-22 13:30:12
+user_31,32,Time Limit Exceeded,2,2025-07-02 13:30:12
+user_31,99,Time Limit Exceeded,2,2024-10-23 13:30:12
+user_31,87,Wrong Answer,2,2025-02-23 13:30:12
+user_31,83,Accepted,5,2025-09-22 13:30:12
+user_31,33,Accepted,2,2025-03-27 13:30:12
+user_31,52,Time Limit Exceeded,3,2025-02-24 13:30:12
+user_31,43,Accepted,3,2025-01-04 13:30:12
+user_31,42,Accepted,4,2025-02-14 13:30:12
+user_32,20,Accepted,1,2025-05-19 13:30:12
+user_32,89,Accepted,2,2025-01-23 13:30:12
+user_32,11,Wrong Answer,3,2025-04-27 13:30:12
+user_32,77,Accepted,2,2025-02-09 13:30:12
+user_32,63,Time Limit Exceeded,3,2025-03-14 13:30:12
+user_32,51,Wrong Answer,3,2025-06-20 13:30:12
+user_32,19,Time Limit Exceeded,4,2025-06-22 13:30:12
+user_32,93,Accepted,4,2025-05-24 13:30:12
+user_32,53,Time Limit Exceeded,4,2025-08-08 13:30:12
+user_32,75,Accepted,2,2024-11-24 13:30:12
+user_32,86,Time Limit Exceeded,4,2025-05-15 13:30:12
+user_32,27,Time Limit Exceeded,2,2025-08-03 13:30:12
+user_32,65,Time Limit Exceeded,1,2024-12-23 13:30:12
+user_32,42,Accepted,5,2025-08-02 13:30:12
+user_32,34,Time Limit Exceeded,3,2025-05-22 13:30:12
+user_32,54,Wrong Answer,3,2024-11-29 13:30:12
+user_33,66,Accepted,5,2025-01-07 13:30:12
+user_33,25,Wrong Answer,3,2024-12-31 13:30:12
+user_33,39,Time Limit Exceeded,4,2025-04-08 13:30:12
+user_33,22,Wrong Answer,5,2024-12-11 13:30:12
+user_33,14,Accepted,1,2025-06-11 13:30:12
+user_33,64,Accepted,2,2025-09-10 13:30:12
+user_33,65,Wrong Answer,4,2025-07-10 13:30:12
+user_33,77,Accepted,5,2025-06-28 13:30:12
+user_33,90,Accepted,3,2025-07-29 13:30:12
+user_33,10,Wrong Answer,5,2024-10-14 13:30:12
+user_33,30,Wrong Answer,3,2024-12-13 13:30:12
+user_33,13,Accepted,3,2025-07-08 13:30:12
+user_33,71,Accepted,5,2025-06-04 13:30:12
+user_33,52,Accepted,2,2024-12-04 13:30:12
+user_33,48,Accepted,1,2024-11-30 13:30:12
+user_33,88,Accepted,3,2025-02-26 13:30:12
+user_33,67,Wrong Answer,3,2025-02-24 13:30:12
+user_33,42,Time Limit Exceeded,4,2025-01-04 13:30:12
+user_33,97,Time Limit Exceeded,4,2024-10-05 13:30:12
+user_33,29,Time Limit Exceeded,5,2025-09-16 13:30:12
+user_33,56,Accepted,2,2025-02-22 13:30:12
+user_33,72,Accepted,2,2024-10-06 13:30:12
+user_33,85,Time Limit Exceeded,1,2024-11-23 13:30:12
+user_33,70,Accepted,2,2024-12-25 13:30:12
+user_33,41,Wrong Answer,3,2025-04-24 13:30:12
+user_33,73,Accepted,3,2024-11-12 13:30:12
+user_33,45,Time Limit Exceeded,3,2024-10-11 13:30:12
+user_33,95,Wrong Answer,4,2025-03-26 13:30:12
+user_33,63,Accepted,2,2025-07-31 13:30:12
+user_33,53,Wrong Answer,2,2025-01-20 13:30:12
+user_33,33,Time Limit Exceeded,4,2024-12-15 13:30:12
+user_33,51,Time Limit Exceeded,3,2025-06-23 13:30:12
+user_33,86,Accepted,2,2025-09-07 13:30:12
+user_33,100,Time Limit Exceeded,3,2025-03-17 13:30:12
+user_33,3,Time Limit Exceeded,2,2025-04-11 13:30:12
+user_33,74,Wrong Answer,2,2024-10-19 13:30:12
+user_33,23,Wrong Answer,3,2025-03-19 13:30:12
+user_33,18,Wrong Answer,5,2025-07-19 13:30:12
+user_33,12,Wrong Answer,1,2025-04-12 13:30:12
+user_33,75,Time Limit Exceeded,3,2025-07-04 13:30:12
+user_33,19,Wrong Answer,1,2025-06-18 13:30:12
+user_33,21,Accepted,2,2025-06-24 13:30:12
+user_33,98,Time Limit Exceeded,3,2025-01-27 13:30:12
+user_33,82,Wrong Answer,2,2024-10-12 13:30:12
+user_33,34,Wrong Answer,1,2025-01-29 13:30:12
+user_33,37,Wrong Answer,4,2025-07-16 13:30:12
+user_33,20,Time Limit Exceeded,1,2025-09-06 13:30:12
+user_33,38,Wrong Answer,4,2025-01-13 13:30:12
+user_33,9,Wrong Answer,4,2025-08-15 13:30:12
+user_33,78,Wrong Answer,1,2025-07-10 13:30:12
+user_33,94,Time Limit Exceeded,1,2024-12-18 13:30:12
+user_34,33,Wrong Answer,4,2024-10-20 13:30:12
+user_34,42,Time Limit Exceeded,3,2025-04-11 13:30:12
+user_34,12,Wrong Answer,2,2025-06-13 13:30:12
+user_34,14,Accepted,2,2025-03-21 13:30:12
+user_34,57,Time Limit Exceeded,2,2025-06-16 13:30:12
+user_34,89,Time Limit Exceeded,2,2025-09-03 13:30:12
+user_34,94,Wrong Answer,3,2025-08-07 13:30:12
+user_34,99,Time Limit Exceeded,1,2024-12-29 13:30:12
+user_34,52,Accepted,2,2025-07-30 13:30:12
+user_34,15,Wrong Answer,5,2025-05-06 13:30:12
+user_34,32,Time Limit Exceeded,3,2025-07-31 13:30:12
+user_34,84,Accepted,5,2025-03-18 13:30:12
+user_34,40,Wrong Answer,5,2025-06-16 13:30:12
+user_34,75,Accepted,4,2025-03-08 13:30:12
+user_34,64,Wrong Answer,1,2025-04-10 13:30:12
+user_34,98,Time Limit Exceeded,2,2025-05-15 13:30:12
+user_34,41,Accepted,1,2025-09-11 13:30:12
+user_34,18,Accepted,4,2025-08-04 13:30:12
+user_34,92,Wrong Answer,5,2025-08-11 13:30:12
+user_34,82,Time Limit Exceeded,1,2024-12-07 13:30:12
+user_34,71,Time Limit Exceeded,1,2025-01-11 13:30:12
+user_34,19,Time Limit Exceeded,4,2025-02-06 13:30:12
+user_34,70,Wrong Answer,4,2025-09-13 13:30:12
+user_35,48,Wrong Answer,3,2025-07-22 13:30:12
+user_35,1,Wrong Answer,5,2024-10-03 13:30:12
+user_35,96,Accepted,2,2025-06-01 13:30:12
+user_35,6,Time Limit Exceeded,5,2024-12-26 13:30:12
+user_35,5,Time Limit Exceeded,1,2024-12-19 13:30:12
+user_35,78,Wrong Answer,3,2025-06-18 13:30:12
+user_35,70,Time Limit Exceeded,2,2025-02-08 13:30:12
+user_35,39,Time Limit Exceeded,1,2025-02-27 13:30:12
+user_35,74,Time Limit Exceeded,3,2025-03-19 13:30:12
+user_35,54,Wrong Answer,3,2025-07-13 13:30:12
+user_35,57,Time Limit Exceeded,1,2025-02-21 13:30:12
+user_35,55,Wrong Answer,5,2025-05-01 13:30:12
+user_35,38,Accepted,2,2024-10-03 13:30:12
+user_35,86,Accepted,3,2024-12-06 13:30:12
+user_35,76,Wrong Answer,2,2025-06-19 13:30:12
+user_35,15,Time Limit Exceeded,2,2024-12-02 13:30:12
+user_35,53,Time Limit Exceeded,5,2024-10-28 13:30:12
+user_35,56,Accepted,5,2025-09-22 13:30:12
+user_35,30,Accepted,2,2025-06-25 13:30:12
+user_35,50,Accepted,3,2025-04-13 13:30:12
+user_35,94,Time Limit Exceeded,1,2024-12-13 13:30:12
+user_35,4,Wrong Answer,2,2025-01-01 13:30:12
+user_36,60,Wrong Answer,4,2024-11-16 13:30:12
+user_36,40,Time Limit Exceeded,3,2025-07-31 13:30:12
+user_36,18,Wrong Answer,5,2025-03-01 13:30:12
+user_36,8,Accepted,3,2025-03-26 13:30:12
+user_36,4,Time Limit Exceeded,3,2025-07-09 13:30:12
+user_36,97,Time Limit Exceeded,4,2024-11-30 13:30:12
+user_36,17,Time Limit Exceeded,5,2025-03-28 13:30:12
+user_36,92,Accepted,2,2025-08-28 13:30:12
+user_36,65,Time Limit Exceeded,4,2025-04-14 13:30:12
+user_36,35,Accepted,5,2024-11-06 13:30:12
+user_36,23,Accepted,5,2025-08-29 13:30:12
+user_36,88,Wrong Answer,1,2025-03-08 13:30:12
+user_36,43,Time Limit Exceeded,3,2024-12-25 13:30:12
+user_36,10,Time Limit Exceeded,3,2025-07-27 13:30:12
+user_36,15,Accepted,1,2025-07-16 13:30:12
+user_36,93,Accepted,4,2025-08-23 13:30:12
+user_36,51,Time Limit Exceeded,4,2025-07-30 13:30:12
+user_36,24,Time Limit Exceeded,3,2025-08-24 13:30:12
+user_36,63,Time Limit Exceeded,5,2025-07-24 13:30:12
+user_36,98,Wrong Answer,4,2025-06-18 13:30:12
+user_36,41,Accepted,3,2025-01-15 13:30:12
+user_36,89,Time Limit Exceeded,1,2025-07-31 13:30:12
+user_36,54,Wrong Answer,2,2024-10-04 13:30:12
+user_36,68,Wrong Answer,4,2025-05-25 13:30:12
+user_36,96,Accepted,4,2025-09-18 13:30:12
+user_36,29,Wrong Answer,4,2024-12-16 13:30:12
+user_36,48,Time Limit Exceeded,1,2025-08-12 13:30:12
+user_36,46,Wrong Answer,4,2024-11-12 13:30:12
+user_36,87,Accepted,5,2025-03-31 13:30:12
+user_36,49,Wrong Answer,4,2025-01-19 13:30:12
+user_36,52,Time Limit Exceeded,2,2025-06-06 13:30:12
+user_36,71,Wrong Answer,2,2024-12-15 13:30:12
+user_36,79,Wrong Answer,3,2025-04-09 13:30:12
+user_36,22,Wrong Answer,2,2025-01-18 13:30:12
+user_36,74,Wrong Answer,5,2025-01-02 13:30:12
+user_36,53,Time Limit Exceeded,5,2025-07-01 13:30:12
+user_36,45,Wrong Answer,1,2025-01-25 13:30:12
+user_36,64,Accepted,2,2025-03-03 13:30:12
+user_36,31,Accepted,1,2025-09-07 13:30:12
+user_36,32,Accepted,3,2024-10-31 13:30:12
+user_36,34,Wrong Answer,4,2025-03-05 13:30:12
+user_37,27,Wrong Answer,5,2025-05-07 13:30:12
+user_37,82,Accepted,3,2025-05-30 13:30:12
+user_37,23,Wrong Answer,1,2024-12-19 13:30:12
+user_37,39,Time Limit Exceeded,1,2025-02-21 13:30:12
+user_37,29,Wrong Answer,1,2025-05-24 13:30:12
+user_37,95,Wrong Answer,5,2024-12-10 13:30:12
+user_37,18,Wrong Answer,2,2024-11-04 13:30:12
+user_37,86,Wrong Answer,2,2025-01-25 13:30:12
+user_37,59,Accepted,3,2025-03-20 13:30:12
+user_37,2,Wrong Answer,5,2025-07-24 13:30:12
+user_37,46,Wrong Answer,3,2025-06-16 13:30:12
+user_37,87,Wrong Answer,2,2024-11-29 13:30:12
+user_37,44,Accepted,4,2025-01-15 13:30:12
+user_37,72,Time Limit Exceeded,2,2025-08-29 13:30:12
+user_37,20,Accepted,2,2025-08-25 13:30:12
+user_37,70,Accepted,1,2024-10-11 13:30:12
+user_37,9,Wrong Answer,1,2025-06-15 13:30:12
+user_37,16,Time Limit Exceeded,2,2024-11-25 13:30:12
+user_37,64,Wrong Answer,4,2025-01-29 13:30:12
+user_37,97,Time Limit Exceeded,4,2025-08-28 13:30:12
+user_37,57,Wrong Answer,4,2024-10-26 13:30:12
+user_37,53,Wrong Answer,3,2025-01-10 13:30:12
+user_37,96,Wrong Answer,3,2025-08-04 13:30:12
+user_37,10,Time Limit Exceeded,5,2024-10-24 13:30:12
+user_37,14,Time Limit Exceeded,2,2024-11-24 13:30:12
+user_37,33,Accepted,4,2025-09-27 13:30:12
+user_37,31,Time Limit Exceeded,3,2025-04-24 13:30:12
+user_37,74,Wrong Answer,3,2024-12-16 13:30:12
+user_37,49,Time Limit Exceeded,3,2025-01-04 13:30:12
+user_37,11,Time Limit Exceeded,5,2025-05-05 13:30:12
+user_37,94,Accepted,4,2025-06-02 13:30:12
+user_37,38,Accepted,5,2025-06-27 13:30:12
+user_37,50,Time Limit Exceeded,1,2025-08-05 13:30:12
+user_37,78,Accepted,2,2024-11-10 13:30:12
+user_37,40,Wrong Answer,2,2024-10-14 13:30:12
+user_37,34,Time Limit Exceeded,2,2025-08-05 13:30:12
+user_37,58,Accepted,1,2024-12-27 13:30:12
+user_37,71,Time Limit Exceeded,2,2025-09-12 13:30:12
+user_37,32,Accepted,1,2025-03-27 13:30:12
+user_37,12,Wrong Answer,3,2024-11-20 13:30:12
+user_37,60,Wrong Answer,5,2025-06-26 13:30:12
+user_37,13,Wrong Answer,5,2025-08-17 13:30:12
+user_37,19,Accepted,4,2025-06-04 13:30:12
+user_37,51,Time Limit Exceeded,5,2025-02-24 13:30:12
+user_37,92,Wrong Answer,3,2024-10-10 13:30:12
+user_37,66,Wrong Answer,3,2024-12-22 13:30:12
+user_38,94,Wrong Answer,3,2025-04-12 13:30:12
+user_38,68,Wrong Answer,1,2025-10-01 13:30:12
+user_38,10,Time Limit Exceeded,3,2025-04-04 13:30:12
+user_38,3,Time Limit Exceeded,1,2024-11-18 13:30:12
+user_38,52,Wrong Answer,3,2025-08-14 13:30:12
+user_38,37,Time Limit Exceeded,3,2024-10-18 13:30:12
+user_38,49,Wrong Answer,4,2025-03-07 13:30:12
+user_38,42,Wrong Answer,4,2025-06-25 13:30:12
+user_38,91,Time Limit Exceeded,5,2025-06-10 13:30:12
+user_38,100,Time Limit Exceeded,4,2025-01-25 13:30:12
+user_38,59,Accepted,2,2025-01-05 13:30:12
+user_38,65,Wrong Answer,4,2025-09-03 13:30:12
+user_38,45,Accepted,3,2025-06-12 13:30:12
+user_38,44,Accepted,2,2025-02-08 13:30:12
+user_38,8,Accepted,1,2025-08-14 13:30:12
+user_38,58,Time Limit Exceeded,3,2025-04-17 13:30:12
+user_38,87,Accepted,1,2025-02-13 13:30:12
+user_38,89,Accepted,5,2025-01-21 13:30:12
+user_38,46,Time Limit Exceeded,4,2025-08-26 13:30:12
+user_38,38,Accepted,1,2024-10-16 13:30:12
+user_38,78,Accepted,4,2025-08-05 13:30:12
+user_38,14,Accepted,2,2025-06-25 13:30:12
+user_38,28,Time Limit Exceeded,3,2025-01-04 13:30:12
+user_38,27,Time Limit Exceeded,3,2024-10-13 13:30:12
+user_38,20,Accepted,2,2025-08-03 13:30:12
+user_38,56,Wrong Answer,4,2025-03-17 13:30:12
+user_38,30,Time Limit Exceeded,5,2025-08-11 13:30:12
+user_38,81,Accepted,1,2025-07-31 13:30:12
+user_38,92,Wrong Answer,2,2025-09-16 13:30:12
+user_38,11,Time Limit Exceeded,5,2024-12-19 13:30:12
+user_38,48,Time Limit Exceeded,3,2025-04-08 13:30:12
+user_38,50,Time Limit Exceeded,3,2025-06-08 13:30:12
+user_38,47,Accepted,2,2024-10-07 13:30:12
+user_38,97,Accepted,4,2024-10-26 13:30:12
+user_39,19,Accepted,1,2025-02-06 13:30:12
+user_39,68,Time Limit Exceeded,5,2025-08-03 13:30:12
+user_39,28,Wrong Answer,1,2025-08-21 13:30:12
+user_39,79,Wrong Answer,1,2024-11-28 13:30:12
+user_39,24,Time Limit Exceeded,2,2025-05-10 13:30:12
+user_39,22,Time Limit Exceeded,3,2025-07-30 13:30:12
+user_39,83,Wrong Answer,4,2024-11-23 13:30:12
+user_39,42,Time Limit Exceeded,5,2024-12-13 13:30:12
+user_39,14,Time Limit Exceeded,3,2024-11-25 13:30:12
+user_39,92,Accepted,4,2025-07-31 13:30:12
+user_39,23,Wrong Answer,3,2024-10-08 13:30:12
+user_39,44,Wrong Answer,4,2025-07-01 13:30:12
+user_39,66,Accepted,5,2024-12-06 13:30:12
+user_39,82,Wrong Answer,1,2025-05-11 13:30:12
+user_39,65,Wrong Answer,5,2025-05-26 13:30:12
+user_39,21,Wrong Answer,1,2025-08-20 13:30:12
+user_39,80,Wrong Answer,3,2025-03-02 13:30:12
+user_39,54,Wrong Answer,1,2025-07-05 13:30:12
+user_39,81,Wrong Answer,4,2025-08-23 13:30:12
+user_39,94,Wrong Answer,3,2025-08-29 13:30:12
+user_39,89,Wrong Answer,1,2025-09-11 13:30:12
+user_39,97,Time Limit Exceeded,3,2025-05-18 13:30:12
+user_39,1,Accepted,2,2025-09-28 13:30:12
+user_39,69,Time Limit Exceeded,2,2025-06-15 13:30:12
+user_39,53,Wrong Answer,5,2025-05-19 13:30:12
+user_39,39,Time Limit Exceeded,3,2024-10-03 13:30:12
+user_39,48,Wrong Answer,1,2024-12-12 13:30:12
+user_39,10,Wrong Answer,3,2025-04-22 13:30:12
+user_39,12,Time Limit Exceeded,2,2025-01-25 13:30:12
+user_39,26,Accepted,5,2025-05-07 13:30:12
+user_39,88,Wrong Answer,3,2024-12-08 13:30:12
+user_39,49,Wrong Answer,3,2024-12-25 13:30:12
+user_39,33,Time Limit Exceeded,4,2025-04-27 13:30:12
+user_39,55,Accepted,3,2024-10-04 13:30:12
+user_39,74,Time Limit Exceeded,1,2024-12-24 13:30:12
+user_39,45,Accepted,5,2025-05-18 13:30:12
+user_39,15,Wrong Answer,4,2024-12-16 13:30:12
+user_40,71,Time Limit Exceeded,1,2024-10-11 13:30:12
+user_40,39,Accepted,2,2025-02-19 13:30:12
+user_40,17,Wrong Answer,5,2025-07-30 13:30:12
+user_40,96,Time Limit Exceeded,4,2025-04-24 13:30:12
+user_40,57,Wrong Answer,5,2024-12-13 13:30:12
+user_40,28,Wrong Answer,3,2024-12-12 13:30:12
+user_40,14,Wrong Answer,5,2025-01-03 13:30:12
+user_40,41,Wrong Answer,4,2024-12-29 13:30:12
+user_40,72,Time Limit Exceeded,5,2025-01-26 13:30:12
+user_40,18,Time Limit Exceeded,4,2025-09-02 13:30:12
+user_40,80,Time Limit Exceeded,3,2025-06-23 13:30:12
+user_40,88,Accepted,4,2025-07-19 13:30:12
+user_40,99,Accepted,5,2025-05-11 13:30:12
+user_40,59,Time Limit Exceeded,4,2025-03-26 13:30:12
+user_40,55,Time Limit Exceeded,4,2025-04-11 13:30:12
+user_40,53,Accepted,3,2025-07-04 13:30:12
+user_40,86,Time Limit Exceeded,3,2025-06-20 13:30:12
+user_40,2,Accepted,3,2025-04-19 13:30:12
+user_40,33,Time Limit Exceeded,1,2025-08-09 13:30:12
+user_40,82,Wrong Answer,3,2025-03-12 13:30:12
+user_40,79,Time Limit Exceeded,1,2025-03-02 13:30:12
+user_40,76,Accepted,4,2024-12-24 13:30:12
+user_40,30,Time Limit Exceeded,3,2025-03-23 13:30:12
+user_40,91,Accepted,5,2024-11-10 13:30:12
+user_40,38,Wrong Answer,1,2025-04-13 13:30:12
+user_40,95,Accepted,4,2025-03-12 13:30:12
+user_40,50,Time Limit Exceeded,4,2025-09-12 13:30:12
+user_40,74,Accepted,5,2025-01-06 13:30:12
+user_40,77,Accepted,1,2024-12-08 13:30:12
+user_40,100,Accepted,3,2025-01-11 13:30:12
+user_40,68,Time Limit Exceeded,3,2025-05-17 13:30:12
+user_40,7,Wrong Answer,4,2025-06-14 13:30:12
+user_40,20,Time Limit Exceeded,1,2025-01-16 13:30:12
+user_40,89,Accepted,1,2025-09-05 13:30:12
+user_40,98,Time Limit Exceeded,2,2025-08-20 13:30:12
+user_40,90,Accepted,1,2025-01-07 13:30:12
+user_40,1,Time Limit Exceeded,2,2025-09-15 13:30:12
+user_40,19,Wrong Answer,1,2024-11-23 13:30:12
+user_40,31,Time Limit Exceeded,2,2025-09-14 13:30:12
+user_40,73,Wrong Answer,3,2025-03-16 13:30:12
+user_41,78,Accepted,3,2025-07-19 13:30:12
+user_41,42,Time Limit Exceeded,3,2024-11-21 13:30:12
+user_41,67,Wrong Answer,4,2024-10-19 13:30:12
+user_41,56,Wrong Answer,3,2025-08-08 13:30:12
+user_41,100,Wrong Answer,5,2025-03-27 13:30:12
+user_41,68,Accepted,1,2025-03-09 13:30:12
+user_41,28,Wrong Answer,4,2025-06-03 13:30:12
+user_41,37,Wrong Answer,4,2025-05-16 13:30:12
+user_41,61,Time Limit Exceeded,4,2024-12-26 13:30:12
+user_41,25,Time Limit Exceeded,2,2025-06-10 13:30:12
+user_41,29,Accepted,4,2025-07-13 13:30:12
+user_41,87,Wrong Answer,1,2025-05-07 13:30:12
+user_41,84,Wrong Answer,2,2025-07-07 13:30:12
+user_41,76,Accepted,2,2025-01-30 13:30:12
+user_41,73,Accepted,3,2025-06-20 13:30:12
+user_41,74,Time Limit Exceeded,5,2025-09-28 13:30:12
+user_41,81,Wrong Answer,2,2025-07-27 13:30:12
+user_41,39,Wrong Answer,1,2024-11-07 13:30:12
+user_41,12,Accepted,3,2024-11-20 13:30:12
+user_41,18,Accepted,4,2025-05-31 13:30:12
+user_41,77,Wrong Answer,3,2024-10-27 13:30:12
+user_41,86,Wrong Answer,3,2025-10-01 13:30:12
+user_41,21,Time Limit Exceeded,3,2024-11-22 13:30:12
+user_41,14,Wrong Answer,1,2025-06-04 13:30:12
+user_41,58,Accepted,4,2024-10-10 13:30:12
+user_41,57,Time Limit Exceeded,1,2025-05-23 13:30:12
+user_41,45,Accepted,2,2024-11-17 13:30:12
+user_41,43,Time Limit Exceeded,4,2025-10-01 13:30:12
+user_41,40,Time Limit Exceeded,5,2025-08-26 13:30:12
+user_41,3,Time Limit Exceeded,1,2025-02-22 13:30:12
+user_42,47,Wrong Answer,3,2025-03-30 13:30:12
+user_42,56,Wrong Answer,1,2024-12-12 13:30:12
+user_42,58,Time Limit Exceeded,5,2024-11-06 13:30:12
+user_42,40,Wrong Answer,4,2025-02-20 13:30:12
+user_42,44,Wrong Answer,4,2025-09-26 13:30:12
+user_42,61,Time Limit Exceeded,3,2025-05-09 13:30:12
+user_42,14,Wrong Answer,3,2025-09-05 13:30:12
+user_42,13,Time Limit Exceeded,3,2025-08-19 13:30:12
+user_42,4,Accepted,2,2025-09-29 13:30:12
+user_42,20,Wrong Answer,4,2025-04-15 13:30:12
+user_42,19,Wrong Answer,2,2025-03-11 13:30:12
+user_42,31,Wrong Answer,5,2024-12-24 13:30:12
+user_42,29,Time Limit Exceeded,3,2024-12-14 13:30:12
+user_42,82,Accepted,3,2024-12-23 13:30:12
+user_42,63,Wrong Answer,2,2024-12-16 13:30:12
+user_42,21,Accepted,2,2025-05-03 13:30:12
+user_42,37,Wrong Answer,3,2025-09-24 13:30:12
+user_42,64,Accepted,2,2024-11-27 13:30:12
+user_42,78,Accepted,2,2025-09-27 13:30:12
+user_42,18,Wrong Answer,5,2024-10-11 13:30:12
+user_42,85,Accepted,2,2025-06-03 13:30:12
+user_42,92,Time Limit Exceeded,1,2025-05-06 13:30:12
+user_42,26,Wrong Answer,3,2025-02-12 13:30:12
+user_42,69,Wrong Answer,4,2025-01-05 13:30:12
+user_42,12,Wrong Answer,2,2025-07-16 13:30:12
+user_42,5,Accepted,4,2025-01-29 13:30:12
+user_42,15,Accepted,5,2025-08-12 13:30:12
+user_42,88,Time Limit Exceeded,5,2025-05-23 13:30:12
+user_42,50,Wrong Answer,2,2025-02-02 13:30:12
+user_42,16,Wrong Answer,3,2024-11-04 13:30:12
+user_42,68,Wrong Answer,1,2025-03-25 13:30:12
+user_42,67,Accepted,2,2024-11-14 13:30:12
+user_42,42,Wrong Answer,3,2025-09-24 13:30:12
+user_42,77,Accepted,1,2025-09-19 13:30:12
+user_42,52,Accepted,3,2025-08-30 13:30:12
+user_42,70,Accepted,2,2025-05-16 13:30:12
+user_42,62,Accepted,5,2025-01-19 13:30:12
+user_42,9,Wrong Answer,2,2025-01-09 13:30:12
+user_42,46,Time Limit Exceeded,1,2025-04-10 13:30:12
+user_42,90,Time Limit Exceeded,5,2025-05-04 13:30:12
+user_42,22,Time Limit Exceeded,5,2025-01-17 13:30:12
+user_42,83,Time Limit Exceeded,5,2025-06-01 13:30:12
+user_42,30,Accepted,5,2024-12-04 13:30:12
+user_42,99,Accepted,2,2025-06-30 13:30:12
+user_42,11,Time Limit Exceeded,3,2025-06-11 13:30:12
+user_42,17,Accepted,4,2024-10-20 13:30:12
+user_42,55,Wrong Answer,3,2024-12-26 13:30:12
+user_42,6,Time Limit Exceeded,2,2025-06-20 13:30:12
+user_42,23,Time Limit Exceeded,1,2025-09-27 13:30:12
+user_42,91,Time Limit Exceeded,3,2025-01-14 13:30:12
+user_43,83,Accepted,2,2025-08-22 13:30:12
+user_43,96,Time Limit Exceeded,1,2025-08-30 13:30:12
+user_43,86,Time Limit Exceeded,5,2025-04-16 13:30:12
+user_43,90,Time Limit Exceeded,4,2025-04-29 13:30:12
+user_43,71,Wrong Answer,4,2025-07-02 13:30:12
+user_43,61,Wrong Answer,4,2024-10-12 13:30:12
+user_43,59,Accepted,4,2025-04-17 13:30:12
+user_43,31,Wrong Answer,3,2025-08-06 13:30:12
+user_43,29,Wrong Answer,2,2025-06-21 13:30:12
+user_43,66,Wrong Answer,2,2025-06-12 13:30:12
+user_43,57,Accepted,2,2024-10-19 13:30:12
+user_43,77,Accepted,1,2025-07-20 13:30:12
+user_43,32,Time Limit Exceeded,1,2025-06-24 13:30:12
+user_43,33,Time Limit Exceeded,4,2025-07-10 13:30:12
+user_43,3,Time Limit Exceeded,1,2025-02-28 13:30:12
+user_43,75,Time Limit Exceeded,1,2025-02-12 13:30:12
+user_43,46,Accepted,2,2025-05-26 13:30:12
+user_43,8,Accepted,1,2025-03-06 13:30:12
+user_43,58,Time Limit Exceeded,5,2025-04-18 13:30:12
+user_43,97,Accepted,5,2024-12-13 13:30:12
+user_43,52,Wrong Answer,4,2025-09-09 13:30:12
+user_43,93,Wrong Answer,2,2025-05-16 13:30:12
+user_43,60,Time Limit Exceeded,5,2025-07-07 13:30:12
+user_43,18,Accepted,4,2025-07-23 13:30:12
+user_43,15,Time Limit Exceeded,1,2024-11-03 13:30:12
+user_43,4,Wrong Answer,5,2025-09-21 13:30:12
+user_43,49,Time Limit Exceeded,2,2024-11-20 13:30:12
+user_43,70,Wrong Answer,1,2025-07-19 13:30:12
+user_43,35,Accepted,4,2024-12-23 13:30:12
+user_43,94,Accepted,3,2025-03-14 13:30:12
+user_44,18,Wrong Answer,3,2025-01-22 13:30:12
+user_44,26,Accepted,2,2025-04-27 13:30:12
+user_44,1,Time Limit Exceeded,4,2025-09-19 13:30:12
+user_44,9,Time Limit Exceeded,1,2025-05-28 13:30:12
+user_44,97,Accepted,5,2025-04-14 13:30:12
+user_44,12,Wrong Answer,4,2025-04-16 13:30:12
+user_44,87,Accepted,4,2025-04-22 13:30:12
+user_44,47,Accepted,5,2025-02-22 13:30:12
+user_44,14,Accepted,4,2025-02-13 13:30:12
+user_44,37,Wrong Answer,3,2024-11-11 13:30:12
+user_44,76,Accepted,5,2024-10-29 13:30:12
+user_44,49,Time Limit Exceeded,1,2025-06-20 13:30:12
+user_44,84,Accepted,4,2025-09-17 13:30:12
+user_44,46,Accepted,3,2025-08-01 13:30:12
+user_44,31,Accepted,4,2025-09-03 13:30:12
+user_45,45,Accepted,1,2025-03-05 13:30:12
+user_45,26,Wrong Answer,5,2025-10-01 13:30:12
+user_45,49,Time Limit Exceeded,1,2025-04-08 13:30:12
+user_45,44,Wrong Answer,4,2025-08-18 13:30:12
+user_45,96,Wrong Answer,1,2025-03-25 13:30:12
+user_45,55,Accepted,1,2025-03-27 13:30:12
+user_45,60,Wrong Answer,1,2024-11-10 13:30:12
+user_45,37,Wrong Answer,1,2025-09-28 13:30:12
+user_45,81,Time Limit Exceeded,3,2024-12-23 13:30:12
+user_45,88,Wrong Answer,3,2025-02-14 13:30:12
+user_45,31,Accepted,4,2025-09-07 13:30:12
+user_45,54,Time Limit Exceeded,3,2025-07-05 13:30:12
+user_45,87,Accepted,3,2025-01-31 13:30:12
+user_45,69,Time Limit Exceeded,5,2024-10-31 13:30:12
+user_45,71,Time Limit Exceeded,2,2024-12-18 13:30:12
+user_45,79,Wrong Answer,1,2025-02-01 13:30:12
+user_45,70,Accepted,1,2024-12-03 13:30:12
+user_45,91,Wrong Answer,4,2025-07-06 13:30:12
+user_45,64,Wrong Answer,4,2025-06-07 13:30:12
+user_45,34,Accepted,4,2025-05-17 13:30:12
+user_46,18,Wrong Answer,5,2025-10-03 13:30:12
+user_46,88,Time Limit Exceeded,4,2025-02-04 13:30:12
+user_46,47,Accepted,5,2024-11-24 13:30:12
+user_46,30,Time Limit Exceeded,4,2024-11-30 13:30:12
+user_46,68,Accepted,4,2025-05-23 13:30:12
+user_46,14,Accepted,4,2025-02-06 13:30:12
+user_46,59,Time Limit Exceeded,3,2025-02-10 13:30:12
+user_46,57,Wrong Answer,4,2024-10-07 13:30:12
+user_46,37,Accepted,4,2025-01-16 13:30:12
+user_46,10,Wrong Answer,3,2024-12-10 13:30:12
+user_46,76,Time Limit Exceeded,1,2025-06-16 13:30:12
+user_46,7,Wrong Answer,2,2025-02-10 13:30:12
+user_46,61,Time Limit Exceeded,4,2025-02-04 13:30:12
+user_46,46,Accepted,5,2024-10-25 13:30:12
+user_46,93,Wrong Answer,5,2025-09-01 13:30:12
+user_46,96,Wrong Answer,1,2025-05-09 13:30:12
+user_46,17,Wrong Answer,2,2025-04-19 13:30:12
+user_46,23,Time Limit Exceeded,5,2025-06-22 13:30:12
+user_46,83,Wrong Answer,5,2025-06-18 13:30:12
+user_46,56,Time Limit Exceeded,5,2025-02-07 13:30:12
+user_46,86,Accepted,4,2024-11-12 13:30:12
+user_46,29,Accepted,3,2025-07-04 13:30:12
+user_46,13,Wrong Answer,3,2025-03-05 13:30:12
+user_46,94,Accepted,2,2025-08-30 13:30:12
+user_46,60,Accepted,2,2025-07-22 13:30:12
+user_46,11,Accepted,3,2024-10-18 13:30:12
+user_46,74,Time Limit Exceeded,2,2025-03-29 13:30:12
+user_46,84,Accepted,2,2025-08-30 13:30:12
+user_46,19,Accepted,2,2025-08-24 13:30:12
+user_46,49,Time Limit Exceeded,1,2025-04-13 13:30:12
+user_47,29,Wrong Answer,2,2025-01-17 13:30:12
+user_47,3,Time Limit Exceeded,4,2025-07-08 13:30:12
+user_47,73,Accepted,1,2025-03-20 13:30:12
+user_47,79,Time Limit Exceeded,2,2025-01-04 13:30:12
+user_47,33,Wrong Answer,4,2024-10-06 13:30:12
+user_47,63,Accepted,1,2025-06-02 13:30:12
+user_47,21,Wrong Answer,5,2025-05-18 13:30:12
+user_47,47,Accepted,5,2024-10-31 13:30:12
+user_47,93,Wrong Answer,1,2025-08-01 13:30:12
+user_47,45,Time Limit Exceeded,3,2024-11-27 13:30:12
+user_47,56,Time Limit Exceeded,4,2025-08-19 13:30:12
+user_47,55,Accepted,3,2024-12-31 13:30:12
+user_47,59,Accepted,4,2025-08-15 13:30:12
+user_47,23,Wrong Answer,1,2025-05-08 13:30:12
+user_47,89,Wrong Answer,5,2025-08-28 13:30:12
+user_47,18,Accepted,5,2025-04-19 13:30:12
+user_47,11,Time Limit Exceeded,3,2025-07-04 13:30:12
+user_48,22,Accepted,5,2025-08-26 13:30:12
+user_48,71,Time Limit Exceeded,2,2025-09-23 13:30:12
+user_48,23,Time Limit Exceeded,4,2025-09-09 13:30:12
+user_48,38,Wrong Answer,4,2025-09-06 13:30:12
+user_48,78,Time Limit Exceeded,5,2025-07-29 13:30:12
+user_48,86,Wrong Answer,4,2024-11-18 13:30:12
+user_48,58,Wrong Answer,2,2025-02-28 13:30:12
+user_48,98,Accepted,4,2025-08-16 13:30:12
+user_48,77,Time Limit Exceeded,2,2025-09-10 13:30:12
+user_48,42,Wrong Answer,5,2025-01-14 13:30:12
+user_48,87,Time Limit Exceeded,4,2025-04-08 13:30:12
+user_48,74,Wrong Answer,4,2025-05-10 13:30:12
+user_48,61,Accepted,4,2025-07-09 13:30:12
+user_48,99,Time Limit Exceeded,1,2025-04-17 13:30:12
+user_48,94,Accepted,5,2025-01-12 13:30:12
+user_48,59,Wrong Answer,5,2025-05-23 13:30:12
+user_48,9,Wrong Answer,3,2025-01-16 13:30:12
+user_48,24,Wrong Answer,3,2025-06-07 13:30:12
+user_48,47,Wrong Answer,2,2024-11-02 13:30:12
+user_48,11,Wrong Answer,1,2024-10-03 13:30:12
+user_48,1,Time Limit Exceeded,3,2024-12-12 13:30:12
+user_48,4,Accepted,5,2024-11-13 13:30:12
+user_48,70,Accepted,3,2024-11-01 13:30:12
+user_48,18,Wrong Answer,4,2025-04-30 13:30:12
+user_48,33,Time Limit Exceeded,1,2024-11-10 13:30:12
+user_48,13,Wrong Answer,3,2024-10-15 13:30:12
+user_48,57,Accepted,5,2025-05-04 13:30:12
+user_48,75,Time Limit Exceeded,3,2024-11-25 13:30:12
+user_48,72,Wrong Answer,3,2024-11-13 13:30:12
+user_48,15,Wrong Answer,2,2025-01-13 13:30:12
+user_48,54,Time Limit Exceeded,4,2025-05-27 13:30:12
+user_48,55,Wrong Answer,4,2024-12-10 13:30:12
+user_48,36,Wrong Answer,5,2025-05-28 13:30:12
+user_48,5,Wrong Answer,4,2024-12-27 13:30:12
+user_48,67,Wrong Answer,5,2025-09-26 13:30:12
+user_48,7,Accepted,3,2024-12-31 13:30:12
+user_48,8,Time Limit Exceeded,2,2025-03-06 13:30:12
+user_48,32,Wrong Answer,1,2025-08-03 13:30:12
+user_48,83,Time Limit Exceeded,2,2024-12-24 13:30:12
+user_48,68,Time Limit Exceeded,1,2025-05-08 13:30:12
+user_48,56,Time Limit Exceeded,4,2025-04-27 13:30:12
+user_48,96,Accepted,5,2025-05-28 13:30:12
+user_48,12,Time Limit Exceeded,1,2024-12-12 13:30:12
+user_48,14,Accepted,5,2025-09-09 13:30:12
+user_48,100,Wrong Answer,3,2024-12-31 13:30:12
+user_48,52,Time Limit Exceeded,2,2025-06-18 13:30:12
+user_48,90,Time Limit Exceeded,5,2025-06-05 13:30:12
+user_48,53,Accepted,4,2025-04-09 13:30:12
+user_48,79,Time Limit Exceeded,5,2025-07-20 13:30:12
+user_48,29,Wrong Answer,5,2025-05-31 13:30:12
+user_49,34,Wrong Answer,5,2025-10-02 13:30:12
+user_49,66,Wrong Answer,3,2024-12-09 13:30:12
+user_49,7,Time Limit Exceeded,5,2024-12-02 13:30:12
+user_49,26,Wrong Answer,5,2025-01-23 13:30:12
+user_49,70,Time Limit Exceeded,5,2025-05-21 13:30:12
+user_49,100,Wrong Answer,4,2025-04-07 13:30:12
+user_49,5,Time Limit Exceeded,4,2025-04-14 13:30:12
+user_49,54,Wrong Answer,1,2025-09-16 13:30:12
+user_49,14,Accepted,1,2025-02-24 13:30:12
+user_49,20,Accepted,2,2025-08-19 13:30:12
+user_49,99,Time Limit Exceeded,2,2025-04-07 13:30:12
+user_49,47,Accepted,5,2024-10-24 13:30:12
+user_49,13,Accepted,3,2025-02-28 13:30:12
+user_49,81,Accepted,5,2025-03-19 13:30:12
+user_49,87,Wrong Answer,3,2025-01-26 13:30:12
+user_49,25,Accepted,4,2025-08-05 13:30:12
+user_49,94,Wrong Answer,3,2025-06-15 13:30:12
+user_49,45,Accepted,5,2025-03-14 13:30:12
+user_49,50,Wrong Answer,1,2025-05-04 13:30:12
+user_49,89,Accepted,1,2025-04-03 13:30:12
+user_49,88,Wrong Answer,4,2025-04-18 13:30:12
+user_49,96,Time Limit Exceeded,3,2024-11-11 13:30:12
+user_49,19,Accepted,5,2025-05-05 13:30:12
+user_49,51,Time Limit Exceeded,3,2025-04-06 13:30:12
+user_49,74,Accepted,2,2025-04-05 13:30:12
+user_49,27,Wrong Answer,4,2025-06-26 13:30:12
+user_49,69,Time Limit Exceeded,2,2025-06-12 13:30:12
+user_49,43,Wrong Answer,3,2025-09-16 13:30:12
+user_49,60,Wrong Answer,1,2025-02-28 13:30:12
+user_49,56,Accepted,2,2025-09-30 13:30:12
+user_49,78,Time Limit Exceeded,5,2024-10-24 13:30:12
+user_49,73,Time Limit Exceeded,3,2025-09-11 13:30:12
+user_49,58,Accepted,3,2025-05-08 13:30:12
+user_49,65,Wrong Answer,2,2025-07-21 13:30:12
+user_49,3,Time Limit Exceeded,1,2025-07-19 13:30:12
+user_49,61,Accepted,5,2025-03-09 13:30:12
+user_49,52,Time Limit Exceeded,4,2025-09-02 13:30:12
+user_50,50,Wrong Answer,5,2025-03-12 13:30:12
+user_50,64,Wrong Answer,4,2024-11-28 13:30:12
+user_50,7,Time Limit Exceeded,2,2024-12-08 13:30:12
+user_50,40,Wrong Answer,4,2025-01-22 13:30:12
+user_50,25,Time Limit Exceeded,4,2025-03-31 13:30:12
+user_50,77,Accepted,4,2025-03-06 13:30:12
+user_50,63,Time Limit Exceeded,3,2024-11-13 13:30:12
+user_50,43,Accepted,5,2024-12-07 13:30:12
+user_50,35,Wrong Answer,2,2025-01-18 13:30:12
+user_50,49,Wrong Answer,4,2025-06-01 13:30:12
+user_50,18,Wrong Answer,3,2025-05-27 13:30:12
+user_50,15,Wrong Answer,2,2025-09-23 13:30:12
+user_50,67,Wrong Answer,3,2025-03-16 13:30:12
+user_50,27,Accepted,1,2025-09-28 13:30:12
+user_50,52,Time Limit Exceeded,2,2024-10-26 13:30:12
+user_50,12,Accepted,3,2025-01-22 13:30:12
+user_50,90,Time Limit Exceeded,4,2025-05-27 13:30:12
+user_50,46,Wrong Answer,1,2024-10-19 13:30:12
+user_50,41,Time Limit Exceeded,2,2025-02-23 13:30:12
+user_50,6,Accepted,3,2025-03-05 13:30:12
+user_50,32,Wrong Answer,3,2025-05-16 13:30:12
+user_50,71,Wrong Answer,1,2025-03-29 13:30:12
+user_50,47,Wrong Answer,1,2024-11-16 13:30:12
+user_50,79,Accepted,3,2024-11-13 13:30:12
+user_50,59,Accepted,4,2024-12-02 13:30:12
+user_50,78,Time Limit Exceeded,3,2025-09-18 13:30:12
+user_50,33,Wrong Answer,5,2025-05-07 13:30:12
+user_50,48,Accepted,5,2025-01-01 13:30:12
+user_50,91,Time Limit Exceeded,2,2024-11-04 13:30:12
